@@ -1,0 +1,26 @@
+.footer-container {
+    background-color: #1089CD;
+    height: 5rem;
+    color: white;
+    font-size: 1.5rem;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: space-between;
+    padding-left: 0;
+}
+
+li {
+    list-style: none;
+    line-height: 2rem;
+    margin: 1rem 10% 0 10%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+

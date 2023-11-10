@@ -1,0 +1,19 @@
+.banner {
+    margin: auto;
+    background-color: #1089CD;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.site-title {
+    font-size: 3rem;
+    color: #C61A1F;
+    text-shadow: -1px -1px #fff, 1px -1px #fff, -1px 1px #fff, 1px 1px #fff;
+    line-height: 4rem;
+    margin-bottom: 0;
+}
+
+p {
+    padding-top: 48px;
+    margin: 0px;
+}

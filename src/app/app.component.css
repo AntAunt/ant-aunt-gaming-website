@@ -1,0 +1,22 @@
+main {
+    background: #263C73;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.siteBody {
+    max-width: 1200px;
+    height: auto;
+    margin: auto;
+}
+
+.banner {
+    margin-bottom: 100px;
+}
+
+.footer {
+    margin-top: auto;
+}
