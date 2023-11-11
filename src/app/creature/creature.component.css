@@ -1,0 +1,33 @@
+.creature {
+    display: flex;
+    flex-direction: column;
+    width: 10.5rem;
+}
+
+.creature:hover .creature-image {
+    background: #FFFFFF33;
+}
+
+.creature-image {
+    border-style: inset;
+    border: 0.5rem solid #CCC;
+    width: 10rem;
+    height: auto;
+    justify-content: center;
+}
+
+.creature-number{
+    justify-content: center;
+    text-align: center;
+    line-height: 1rem;
+}
+
+.creature-name{
+    justify-content: center;
+    text-align: center;
+    line-height: 1px;
+}
+
+p {
+    margin-top: 0.5rem;
+}

@@ -5,6 +5,7 @@ import { NewsComponent } from './news/news.component';
 import { BannerComponent } from './banner/banner.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
+import { CreaturesComponent } from './creatures/creatures.component';
 
 @Component({
   selector: 'app-root',
@@ -12,6 +13,7 @@ import { FooterComponent } from './footer/footer.component';
   imports: [CommonModule,
     RouterOutlet,
     NewsComponent,
+    CreaturesComponent,
     BannerComponent,
     NavbarComponent,
     FooterComponent],

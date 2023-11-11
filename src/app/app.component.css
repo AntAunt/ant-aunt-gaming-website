@@ -13,8 +13,10 @@ main {
     margin: auto;
 }
 
-.banner {
-    margin-bottom: 100px;
+.content {
+    flex: 1;
+    padding: 1rem;
+    color: #DDD;
 }
 
 .footer {
