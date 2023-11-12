@@ -28,6 +28,8 @@
     line-height: 1px;
 }
 
-p {
+.creature-page-link {
     margin-top: 0.5rem;
+    color:#CCC;
+    text-decoration: none;
 }

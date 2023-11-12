@@ -1,0 +1,17 @@
+.creature-log {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.creature-image {
+    max-width: 30rem;
+    height: auto;
+}
+
+.types {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}

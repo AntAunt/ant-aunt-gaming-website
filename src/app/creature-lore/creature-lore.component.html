@@ -1,0 +1,10 @@
+<div class="creature-log">
+    <h1>{{creature?.number}} - {{creature?.name}}</h1>
+    <img class="creature-image" [src]="creature?.imageLink" alt="Drawing of {{creature?.name}}">
+    <ul class="types">
+        <li *ngFor="let type of creature?.type; last as isLast">
+            {{ type }}<span *ngIf="!isLast">-</span>
+        </li>
+    </ul>
+    <p>{{ creature?.description }}</p>
+</div>

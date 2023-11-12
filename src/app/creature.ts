@@ -1,6 +1,18 @@
+import data from '../assets/creatures.json';
+
 export interface Creature {
-    id: number;
+    number: string;
+    rNum: string;
+    gNum: string;
+    bNum: string;
+    yNum: string;
+    oNum: string;
+    pNum: string;
     name: string;
-    image: string;
+    type: string[];
+    evolvesInto: string[];
+    family: string;
+    rank: string;
     description: string;
+    imageLink: string;
 }

@@ -1,5 +1,7 @@
 <section class="creature">
-    <img class="creature-image" [src]="creature.image" alt="Drawing of {{creature.name}}">
-    <p class="creature-number">{{ creature.id }}</p>
-    <p class="creature-name">{{ creature.name }}</p>
+    <a class="creature-page-link" [routerLink]="['/creatures', creature.number]">
+        <img class="creature-image" [src]="creature.imageLink" alt="Drawing of {{creature.name}}">
+        <p class="creature-number">{{ creature.number }}</p>
+        <p class="creature-name">{{ creature.name }}</p>
+    </a>
 </section>

@@ -1,3 +1,8 @@
 <section class="creatures">
-    <app-creature [creature]="creature"></app-creature>
+    <div class="thumbnails">
+        <app-creature 
+            *ngFor="let creature of creatureArray"
+            [creature]="creature">
+        </app-creature>
+    </div>
 </section>

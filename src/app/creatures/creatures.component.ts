@@ -1,7 +1,9 @@
-import { Component, Input } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Creature } from '../creature'
-import { CreatureComponent } from '../creature/creature.component'; 
+import { CreatureComponent } from '../creature/creature.component';
+import data from '../../assets/creatures.json';
+import { CreatureService } from '../creature.service';
 
 @Component({
     selector: 'app-creatures',
@@ -11,12 +13,10 @@ import { CreatureComponent } from '../creature/creature.component';
     imports: [CommonModule, CreatureComponent]
 })
 export class CreaturesComponent {
-  readonly baseUrl = "./assets/CreatureImages";
+  creatureArray: Creature[] = [];
+  creatureService: CreatureService = inject(CreatureService);
 
-  creature: Creature = {
-    id: 10,
-    name: "Eggy",
-    image: `${this.baseUrl}/0010.png`,
-    description: "Hello!"
+  constructor() {
+    this.creatureArray = this.creatureService.getAllCreatures();
   }
 }
