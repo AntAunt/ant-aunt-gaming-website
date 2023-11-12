@@ -1,0 +1,1354 @@
+[
+  {
+    "number": "0010",
+    "rNum": "R010",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y140",
+    "oNum": "",
+    "pNum": "P249",
+    "name": "Eggy",
+    "type": [],
+    "evolvesInto": [
+      "0011"
+    ],
+    "family": "0010",
+    "rank": "Bronze",
+    "description": "The little chick stays in its shell for a while after hatching. It feeds on little insects that crawl nearby.",
+    "imageLink": "https://i.imgur.com/XtVPZaw.png"
+  },
+  {
+    "number": "0011",
+    "rNum": "R011",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y141",
+    "oNum": "",
+    "pNum": "P250",
+    "name": "Birdactyl",
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "evolvesInto": [
+      "0012"
+    ],
+    "family": "0011",
+    "rank": "Silver",
+    "description": "As the shell grows small, the fletchling becomes more confident. It hunt smaller critters, threatening them with its claws.",
+    "imageLink": "https://i.imgur.com/ro8qTk0.png"
+  },
+  {
+    "number": "0012",
+    "rNum": "R012",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y142",
+    "oNum": "",
+    "pNum": "P251",
+    "name": "Crustavian",
+    "type": [
+      "Water",
+      "Flying",
+      "Fighting"
+    ],
+    "evolvesInto": [],
+    "family": "0011",
+    "rank": "Gold",
+    "description": "Mastering flight, surface and water, it fights everything and anything that comes within its territory. Its punch is strong enough to knockout an Indian elephant.",
+    "imageLink": "https://i.imgur.com/xyOTAkM.png"
+  },
+  {
+    "number": "0030",
+    "rNum": "R030",
+    "gNum": "G324",
+    "bNum": "",
+    "yNum": "Y330",
+    "oNum": "",
+    "pNum": "P201",
+    "name": "Sparksmall",
+    "type": [
+      "Electric"
+    ],
+    "evolvesInto": [
+      "0031"
+    ],
+    "family": "0030",
+    "rank": "Bronze",
+    "description": "This little guy floats from power source to power source. It feeds on energy to grow big and strong.",
+    "imageLink": "https://i.imgur.com/DbVxixh.png"
+  },
+  {
+    "number": "0031",
+    "rNum": "R031",
+    "gNum": "G325",
+    "bNum": "",
+    "yNum": "Y331",
+    "oNum": "",
+    "pNum": "P202",
+    "name": "Plugfey",
+    "type": [
+      "Electric",
+      "Fairy"
+    ],
+    "evolvesInto": [
+      "0032"
+    ],
+    "family": "0030",
+    "rank": "Silver",
+    "description": "After consuming large amounts of energy, it plugs its tendrils into the ground. This behavour is theorised to help with digestion.",
+    "imageLink": "https://i.imgur.com/PBq0yv1.png"
+  },
+  {
+    "number": "0032",
+    "rNum": "R032",
+    "gNum": "G326",
+    "bNum": "",
+    "yNum": "Y332",
+    "oNum": "",
+    "pNum": "P203",
+    "name": "Titantricity",
+    "type": [
+      "Electric",
+      "Fairy",
+      "Cosmic"
+    ],
+    "evolvesInto": [],
+    "family": "0030",
+    "rank": "Gold",
+    "description": "Titantricity roams the fields around powerlines. This hungry monster is often the cause of power outages in towns.",
+    "imageLink": "https://i.imgur.com/3B5WF8u.png"
+  },
+  {
+    "number": "0066",
+    "rNum": "R066",
+    "gNum": "G301",
+    "bNum": "B315",
+    "yNum": "Y251",
+    "oNum": "",
+    "pNum": "P030",
+    "name": "Spidorby",
+    "type": [
+      "Bug"
+    ],
+    "evolvesInto": [
+      "0067"
+    ],
+    "family": "0066",
+    "rank": "Bronze",
+    "description": "Spidorbies harmlessly wander around forests hoping to stumble into food. When threatened, they roll away in panic.",
+    "imageLink": "https://i.imgur.com/ZTrxtOi.png"
+  },
+  {
+    "number": "0067",
+    "rNum": "R067",
+    "gNum": "G302",
+    "bNum": "B316",
+    "yNum": "Y252",
+    "oNum": "",
+    "pNum": "P031",
+    "name": "Websacc",
+    "type": [],
+    "evolvesInto": [
+      "0068"
+    ],
+    "family": "0066",
+    "rank": "Silver",
+    "description": "Its shell is made of thick web. While it hibernates, its internal temperature reaches as high as 100 degrees.",
+    "imageLink": "https://i.imgur.com/Vlu8mYC.png"
+  },
+  {
+    "number": "0068",
+    "rNum": "R068",
+    "gNum": "G303",
+    "bNum": "B317",
+    "yNum": "Y253",
+    "oNum": "",
+    "pNum": "P032",
+    "name": "Pyrantula",
+    "type": [
+      "Fire",
+      "Ghost",
+      "Bug"
+    ],
+    "evolvesInto": [],
+    "family": "0066",
+    "rank": "Gold",
+    "description": "It builds elaborate webs around the outskirts of forests. After starting a fire, it hopes the prey will get trapepd in the webs while trying to escape.",
+    "imageLink": "https://i.imgur.com/aNE9yzz.png"
+  },
+  {
+    "number": "0111",
+    "rNum": "R111",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y199",
+    "oNum": "",
+    "pNum": "P290",
+    "name": "Skulemu",
+    "type": [
+      "Radiation",
+      "Ghost"
+    ],
+    "evolvesInto": [
+      "0112"
+    ],
+    "family": "0111",
+    "rank": "Bronze",
+    "description": "It kept its consciousness after death, but could not move without its body. It used short-term possesion of smaller critters to reassemble its skeleton.",
+    "imageLink": "https://i.imgur.com/yrK1Upy.png"
+  },
+  {
+    "number": "0112",
+    "rNum": "R112",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y200",
+    "oNum": "",
+    "pNum": "P291",
+    "name": "Cybostrich",
+    "type": [],
+    "evolvesInto": [
+      "0113"
+    ],
+    "family": "0111",
+    "rank": "Silver",
+    "description": "Genetic research has allowed to have its body regenerated based on its memories. Cyborg parts allow it to move slowly in the meantime.",
+    "imageLink": "https://i.imgur.com/MnsFJI4.png"
+  },
+  {
+    "number": "0113",
+    "rNum": "R113",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y201",
+    "oNum": "",
+    "pNum": "P292",
+    "name": "Rheafetherd",
+    "type": [
+      "Radiation",
+      "Ghost"
+    ],
+    "evolvesInto": [],
+    "family": "0111",
+    "rank": "Gold",
+    "description": "After reconstruction, the dinosaur has gained immense speed. It enjoys testing its speed by chasing Indian elephants.",
+    "imageLink": "https://i.imgur.com/huJ5jxv.png"
+  },
+  {
+    "number": "0137",
+    "rNum": "R137",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P209",
+    "name": "Clodsoil",
+    "type": [
+      "Ground"
+    ],
+    "evolvesInto": [
+      "0138"
+    ],
+    "family": "0137",
+    "rank": "Bronze",
+    "description": "Clodsoil moves around dirt, absorbing nutriens as it goes. Sometimes it eats the grass growing on it as well.",
+    "imageLink": "https://i.imgur.com/pqCfuqK.png"
+  },
+  {
+    "number": "0138",
+    "rNum": "R138",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P210",
+    "name": "Earthclump",
+    "type": [
+      "Ground"
+    ],
+    "evolvesInto": [
+      "0139"
+    ],
+    "family": "0137",
+    "rank": "Silver",
+    "description": "It can merge with earth below it to maneuver around quickly. The flower on its head is part of its nervous system.",
+    "imageLink": "https://i.imgur.com/L10zu3P.png"
+  },
+  {
+    "number": "0139",
+    "rNum": "R139",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P211",
+    "name": "Subterrchomp",
+    "type": [
+      "Ground",
+      "Grass",
+      "Electric"
+    ],
+    "evolvesInto": [],
+    "family": "0137",
+    "rank": "Gold",
+    "description": "To a naked eye, this creature looks like a small hill. It waits for unsuspecting prey to approach before eating it whole.",
+    "imageLink": "https://i.imgur.com/dvqL6mR.png"
+  },
+  {
+    "number": "0204",
+    "rNum": "R204",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y337",
+    "oNum": "",
+    "pNum": "P287",
+    "name": "Nitrotod",
+    "type": [
+      "Wildcard"
+    ],
+    "evolvesInto": [
+      "0205"
+    ],
+    "family": "0204",
+    "rank": "Bronze",
+    "description": "This mysterious lizard scurries at night eating bolts. It squirts ligth blue liquid from its eyes for protection.",
+    "imageLink": "https://i.imgur.com/HqpbrOX.png"
+  },
+  {
+    "number": "0205",
+    "rNum": "R205",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y338",
+    "oNum": "",
+    "pNum": "P288",
+    "name": "Skinkbolt",
+    "type": [
+      "Fighting",
+      "Wildcard",
+      "Steel"
+    ],
+    "evolvesInto": [
+      "0206"
+    ],
+    "family": "0204",
+    "rank": "Silver",
+    "description": "This creature instantly extends its neck to reach far away targets. The metal coat covering its throat can sustain a lot of damage.",
+    "imageLink": "https://i.imgur.com/EclOtT5.png"
+  },
+  {
+    "number": "0206",
+    "rNum": "R206",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y339",
+    "oNum": "",
+    "pNum": "P289",
+    "name": "Basilength",
+    "type": [
+      "Fighting",
+      "Wildcard",
+      "Steel"
+    ],
+    "evolvesInto": [],
+    "family": "0204",
+    "rank": "Gold",
+    "description": "Despite being made of steel, it can float effortlessly in the air. Its iron will also allows it to survive in space.",
+    "imageLink": "https://i.imgur.com/gCsD1cx.png"
+  },
+  {
+    "number": "0281",
+    "rNum": "R281",
+    "gNum": "G053",
+    "bNum": "B333",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P145",
+    "name": "Quatrap",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolvesInto": [
+      "0405"
+    ],
+    "family": "0404",
+    "rank": "Silver",
+    "description": "The four heads are efficient at multitasking. One baits critters with nectar, other fights off predators, and the final two eat dirt for nutrients.",
+    "imageLink": "https://i.imgur.com/TDTXWZ7.png"
+  },
+  {
+    "number": "0318",
+    "rNum": "R318",
+    "gNum": "G116",
+    "bNum": "B179",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P183",
+    "name": "Misigil",
+    "type": [
+      "Rock",
+      "Dark",
+      "Ground"
+    ],
+    "evolvesInto": [],
+    "family": "0794",
+    "rank": "Gold",
+    "description": "This rocky creature absorbs all nearby misfortune. It tricks other creatures into an unwinnable game to aggrevate them and feed on their strong anger.",
+    "imageLink": "https://i.imgur.com/4bkPhoI.png"
+  },
+  {
+    "number": "0319",
+    "rNum": "R319",
+    "gNum": "G117",
+    "bNum": "B180",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P184",
+    "name": "Ghamblegoul",
+    "type": [
+      "Dark",
+      "Ghost",
+      "Ground"
+    ],
+    "evolvesInto": [],
+    "family": "0794",
+    "rank": "Gold",
+    "description": "Ghamblegoul invites weaker souls for some light-hearted bets. After a few deliberate losses, it ramps up to win the other player's soul in a rigged fashion.",
+    "imageLink": "https://i.imgur.com/dOYPNOk.png"
+  },
+  {
+    "number": "0328",
+    "rNum": "R328",
+    "gNum": "G169",
+    "bNum": "",
+    "yNum": "Y269",
+    "oNum": "",
+    "pNum": "P223",
+    "name": "Umbrams",
+    "type": [
+      "Ghost",
+      "Psychic",
+      "Dark"
+    ],
+    "evolvesInto": [
+      "1511"
+    ],
+    "family": "0505",
+    "rank": "Silver",
+    "description": "This critter moves around using its spectral limbs. The stronger its soul, the more arms it can have.",
+    "imageLink": "https://i.imgur.com/9YTIc7J.png"
+  },
+  {
+    "number": "0352",
+    "rNum": "R352",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P353",
+    "name": "Clayball",
+    "type": [
+      "Flying"
+    ],
+    "evolvesInto": [],
+    "family": "0352",
+    "rank": "Diamond",
+    "description": "The everchanging eyball flies across the skies at immense speeds. Ancient folk used to worship this monster, dubbing it \"Spirit of Flight\".",
+    "imageLink": "https://i.imgur.com/e5rpymQ.png"
+  },
+  {
+    "number": "0388",
+    "rNum": "",
+    "gNum": "G026",
+    "bNum": "B216",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P258",
+    "name": "Deflatoon",
+    "type": [
+      "Normal"
+    ],
+    "evolvesInto": [
+      "0389"
+    ],
+    "family": "0388",
+    "rank": "Bronze",
+    "description": "This critter assumes an appearanece of a discarded balloon. It feeds on trash after being thrown away when mistaken for litter.",
+    "imageLink": "https://i.imgur.com/XCH6rlX.png"
+  },
+  {
+    "number": "0389",
+    "rNum": "",
+    "gNum": "G027",
+    "bNum": "B217",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P259",
+    "name": "Elecflate",
+    "type": [
+      "Electric"
+    ],
+    "evolvesInto": [
+      "0809"
+    ],
+    "family": "0388",
+    "rank": "Silver",
+    "description": "It's body is full of electrified air. Touching it just once will make the victim experience static shocks for hours.",
+    "imageLink": "https://i.imgur.com/XOin9JU.png"
+  },
+  {
+    "number": "0404",
+    "rNum": "",
+    "gNum": "G052",
+    "bNum": "B332",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P144",
+    "name": "Vensap",
+    "type": [
+      "Grass"
+    ],
+    "evolvesInto": [
+      "0281"
+    ],
+    "family": "0404",
+    "rank": "Bronze",
+    "description": "The little sprout needs to eat three times its weight in a day. It hops around, using all of its strength to lift its pot.",
+    "imageLink": "https://i.imgur.com/zigkWlP.png"
+  },
+  {
+    "number": "0405",
+    "rNum": "",
+    "gNum": "G053",
+    "bNum": "B334",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P146",
+    "name": "Plexgraft",
+    "type": [
+      "Grass",
+      "Poison",
+      "Fighting"
+    ],
+    "evolvesInto": [],
+    "family": "0404",
+    "rank": "Gold",
+    "description": "None of the heads have a mind of its own. Their brains have merged into one inside of the reinforced pot.",
+    "imageLink": "https://i.imgur.com/259iQMK.png"
+  },
+  {
+    "number": "0416",
+    "rNum": "",
+    "gNum": "G066",
+    "bNum": "",
+    "yNum": "Y067",
+    "oNum": "",
+    "pNum": "P267",
+    "name": "Catirpath",
+    "type": [
+      "Bug"
+    ],
+    "evolvesInto": [
+      "0417",
+      "0419"
+    ],
+    "family": "0416",
+    "rank": "Bronze",
+    "description": "The tiny Catirpath spends most of its day eating leaves and sleeping. It doesn't know a parasite resides within in.",
+    "imageLink": "https://i.imgur.com/6pnzQ8C.png"
+  },
+  {
+    "number": "0417",
+    "rNum": "",
+    "gNum": "G067",
+    "bNum": "",
+    "yNum": "Y068",
+    "oNum": "",
+    "pNum": "P268",
+    "name": "Parastingd",
+    "type": [],
+    "evolvesInto": [
+      "0418",
+      "0917"
+    ],
+    "family": "0416",
+    "rank": "Silver",
+    "description": "Feeling disturbances from inside, the bug fruitlessly tries to drive its parasite away. This leaves it in a scarred state.",
+    "imageLink": "https://i.imgur.com/xAiAU6j.png"
+  },
+  {
+    "number": "0418",
+    "rNum": "",
+    "gNum": "G068",
+    "bNum": "",
+    "yNum": "Y069",
+    "oNum": "",
+    "pNum": "P269",
+    "name": "Outburstingd",
+    "type": [
+      "Bug",
+      "Flying",
+      "Poison"
+    ],
+    "evolvesInto": [
+      ""
+    ],
+    "family": "0416",
+    "rank": "Gold",
+    "description": "After reaching maturity, the parasite roams freely, abandoning its host. It's toxic is potent enough to make an Indian elephant suffer.",
+    "imageLink": "https://i.imgur.com/rLJhxq4.png"
+  },
+  {
+    "number": "0419",
+    "rNum": "",
+    "gNum": "G069",
+    "bNum": "",
+    "yNum": "Y071",
+    "oNum": "",
+    "pNum": "P271",
+    "name": "Cocoore",
+    "type": [],
+    "evolvesInto": [
+      "0420",
+      "0918"
+    ],
+    "family": "0416",
+    "rank": "Silver",
+    "description": "In an effort to fight off its disease, the bug develops a powerful psychic-based immune system. It's mental powers are fighting to defeat the parasite once and for all.",
+    "imageLink": "https://i.imgur.com/pQSO4I9.png"
+  },
+  {
+    "number": "0420",
+    "rNum": "",
+    "gNum": "G070",
+    "bNum": "",
+    "yNum": "Y072",
+    "oNum": "",
+    "pNum": "P272",
+    "name": "Curemoth",
+    "type": [
+      "Bug",
+      "Flying",
+      "Psychic"
+    ],
+    "evolvesInto": [],
+    "family": "0416",
+    "rank": "Gold",
+    "description": "The powder produced by this monster have potent healing qualities. A concoction brewed from it can make a sickly Indian elephant healthy again.",
+    "imageLink": "https://i.imgur.com/dHiqzb2.png"
+  },
+  {
+    "number": "0458",
+    "rNum": "",
+    "gNum": "G115",
+    "bNum": "B178",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P182",
+    "name": "Choiceprit",
+    "type": [
+      "Dark",
+      "Ground"
+    ],
+    "evolvesInto": [
+      "0318",
+      "0319"
+    ],
+    "family": "0794",
+    "rank": "Silver",
+    "description": "The creature seems to keep track of something on its rocky body. It's very conflicted on the role of luck in its life.",
+    "imageLink": "https://i.imgur.com/048ROZ6.png"
+  },
+  {
+    "number": "0482",
+    "rNum": "",
+    "gNum": "G143",
+    "bNum": "B223",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P198",
+    "name": "Tyranoplush",
+    "type": [
+      "Ghost",
+      "Flying"
+    ],
+    "evolvesInto": [
+      "0483",
+      "1504"
+    ],
+    "family": "0811",
+    "rank": "Silver",
+    "description": "This doll looks to be based on a dinosaur with wings. It chases off critters away from its home trash bin.",
+    "imageLink": "https://i.imgur.com/NYcqS0F.png"
+  },
+  {
+    "number": "0483",
+    "rNum": "",
+    "gNum": "G144",
+    "bNum": "B224",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P199",
+    "name": "Divanosaurus",
+    "type": [
+      "Ghost",
+      "Flying",
+      "Dragon"
+    ],
+    "evolvesInto": [],
+    "family": "0811",
+    "rank": "Gold",
+    "description": "It ate so much it is now square. An Indian elephant could sit on it comfortably.",
+    "imageLink": "https://i.imgur.com/S0nSf18.png"
+  },
+  {
+    "number": "0505",
+    "rNum": "",
+    "gNum": "G168",
+    "bNum": "",
+    "yNum": "Y268",
+    "oNum": "",
+    "pNum": "P222",
+    "name": "Snario",
+    "type": [
+      "Ghost",
+      "Dark"
+    ],
+    "evolvesInto": [
+      "0328"
+    ],
+    "family": "0505",
+    "rank": "Bronze",
+    "description": "This shiny creature lies motionless in grass. It waits for a curios critter to approach it before snaring it with its ghastly claws.",
+    "imageLink": "https://i.imgur.com/2LdBcep.png"
+  },
+  {
+    "number": "0794",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B177",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P181",
+    "name": "Betsoul",
+    "type": [
+      "Dark",
+      "Ground"
+    ],
+    "evolvesInto": [
+      "0458"
+    ],
+    "family": "0794",
+    "rank": "Bronze",
+    "description": "This ghastly critter enjoys challenge. It eagerly bets its own food to see if it can do better than its rivals.",
+    "imageLink": "https://i.imgur.com/mMu4809.png"
+  },
+  {
+    "number": "0809",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B218",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P260",
+    "name": "Airbastrike",
+    "type": [
+      "Electric",
+      "Ghost",
+      "Poison"
+    ],
+    "evolvesInto": [],
+    "family": "0388",
+    "rank": "Gold",
+    "description": "The flate that lifts this monster is its very own soul. It flies high enough, then drops on its target trying to crush them.",
+    "imageLink": "https://i.imgur.com/UVj2GMC.png"
+  },
+  {
+    "number": "0811",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B222",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P197",
+    "name": "Stitchspook",
+    "type": [
+      "Ghost"
+    ],
+    "evolvesInto": [
+      "0482"
+    ],
+    "family": "0811",
+    "rank": "Bronze",
+    "description": "This ghost lives in a toy long abandoned by its owner. It prefers to stick around landfills.",
+    "imageLink": "https://i.imgur.com/Akp62Gn.png"
+  },
+  {
+    "number": "0901",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y046",
+    "oNum": "",
+    "pNum": "P255",
+    "name": "Twirlead",
+    "type": [
+      "Steel"
+    ],
+    "evolvesInto": [
+      "0902"
+    ],
+    "family": "0901",
+    "rank": "Bronze",
+    "description": "This critters seems to be cosntantly spinning in place. This tactic could disorient predators.",
+    "imageLink": "https://i.imgur.com/JYye0jt.png"
+  },
+  {
+    "number": "0902",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y047",
+    "oNum": "",
+    "pNum": "P256",
+    "name": "Spinneron",
+    "type": [
+      "Steel",
+      "Fire"
+    ],
+    "evolvesInto": [
+      "0903"
+    ],
+    "family": "0901",
+    "rank": "Silver",
+    "description": "The friction is creates from spinning can start a fire. Wherever it goes, it leaves a burning trail behind it.",
+    "imageLink": "https://i.imgur.com/ODNOj6u.png"
+  },
+  {
+    "number": "0903",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y048",
+    "oNum": "",
+    "pNum": "P257",
+    "name": "Stahldance",
+    "type": [
+      "Steel",
+      "Rock",
+      "Fire"
+    ],
+    "evolvesInto": [],
+    "family": "0901",
+    "rank": "Gold",
+    "description": "This monster does elaborate spinny dances to distract its enemies. Those mesmerised by its motion tend to not notice being engulfed in flames.",
+    "imageLink": "https://i.imgur.com/AKckJVo.png"
+  },
+  {
+    "number": "0917",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y070",
+    "oNum": "",
+    "pNum": "P270",
+    "name": "Ghostingd",
+    "type": [
+      "Bug",
+      "Poison",
+      "Ghost"
+    ],
+    "evolvesInto": [],
+    "family": "0416",
+    "rank": "Gold",
+    "description": "The soul of the bug persists within the husk after the parasite has long left. The wings it creates out of pure malice are frequently used for devastating cuts.",
+    "imageLink": "https://i.imgur.com/Ov4iaSO.png"
+  },
+  {
+    "number": "0918",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y073",
+    "oNum": "",
+    "pNum": "P273",
+    "name": "Huscure",
+    "type": [
+      "Bug",
+      "Psychic",
+      "Ghost"
+    ],
+    "evolvesInto": [],
+    "family": "0416",
+    "rank": "Gold",
+    "description": "The parasite's soul that once lived in the bug now resides within this husk. It uses its wings created from its gratitude for a second chance for life to protect weaker creatures.",
+    "imageLink": "https://i.imgur.com/6wuJTFW.png"
+  },
+  {
+    "number": "0954",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y203",
+    "oNum": "",
+    "pNum": "P114",
+    "name": "Earthquartz",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "evolvesInto": [],
+    "family": "0954",
+    "rank": "Gold",
+    "description": "This monster is filled with anxiety. It trembles in fear and the area around it shakes noticeably.",
+    "imageLink": "https://i.imgur.com/OobREMW.png"
+  },
+  {
+    "number": "0984",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y237",
+    "oNum": "",
+    "pNum": "P276",
+    "name": "Gazeblaze",
+    "type": [
+      "Fire"
+    ],
+    "evolvesInto": [
+      "0985"
+    ],
+    "family": "0984",
+    "rank": "Bronze",
+    "description": "The creature sits lazily on the ground as absorbs minerals from the soil. Those observing it always see it staring back.",
+    "imageLink": "https://i.imgur.com/0v1ens6.png"
+  },
+  {
+    "number": "0985",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y238",
+    "oNum": "",
+    "pNum": "P277",
+    "name": "Silliscorch",
+    "type": [
+      "Fire",
+      "Rock"
+    ],
+    "evolvesInto": [
+      "0986"
+    ],
+    "family": "0984",
+    "rank": "Silver",
+    "description": "Its rocky carapace keeps protects its mostly liquid innards. The hand-tail sticks itself to objects of interest by melting into them slightly.",
+    "imageLink": "https://i.imgur.com/XSsONrR.png"
+  },
+  {
+    "number": "0986",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y239",
+    "oNum": "",
+    "pNum": "P278",
+    "name": "Cragmarin",
+    "type": [
+      "Fire",
+      "Water",
+      "Rock"
+    ],
+    "evolvesInto": [],
+    "family": "0984",
+    "rank": "Gold",
+    "description": "The smaller the specimen is, the more energy it keeps. A controlled explosion by this monster can wipe out a small population of Indian elephants.",
+    "imageLink": "https://i.imgur.com/WvytZbz.png"
+  },
+  {
+    "number": "1071",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O071",
+    "pNum": "P124",
+    "name": "Eyetum",
+    "type": [
+      "Spiny"
+    ],
+    "evolvesInto": [
+      "1072"
+    ],
+    "family": "1071",
+    "rank": "Bronze",
+    "description": "These dragons pace around caves looking for crystals to eat. Their stomach appears to act as a massive eye as well.",
+    "imageLink": "https://i.imgur.com/pzE4K4s.png"
+  },
+  {
+    "number": "1072",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O072",
+    "pNum": "P125",
+    "name": "Ocularge",
+    "type": [
+      "Spiny",
+      "Ice"
+    ],
+    "evolvesInto": [
+      "1073"
+    ],
+    "family": "1071",
+    "rank": "Silver",
+    "description": "A diet of rare rocks made it grow a crystal on its back. The spiny skin it has makes other creatures avoid touching it.",
+    "imageLink": "https://i.imgur.com/8reZ9m0.png"
+  },
+  {
+    "number": "1073",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O073",
+    "pNum": "P126",
+    "name": "Cyclash",
+    "type": [
+      "Spiny",
+      "Ice",
+      "Rock"
+    ],
+    "evolvesInto": [],
+    "family": "1071",
+    "rank": "Gold",
+    "description": "The superior vision on its stomach eye makes this monster prefer using it for sight. A strike with its tentacles can leave a mark on an Indian elephant for two weeks.",
+    "imageLink": "https://i.imgur.com/Q1CH1In.png"
+  },
+  {
+    "number": "1114",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O114",
+    "pNum": "P158",
+    "name": "Unicardic",
+    "type": [
+      "Radiation",
+      "Water"
+    ],
+    "evolvesInto": [
+      "1115"
+    ],
+    "family": "1114",
+    "rank": "Bronze",
+    "description": "Interestingly, the heart of this cresture is made of a single cell. It subtly manipulates moisture around itself to create a gooey layer of protection.",
+    "imageLink": "https://i.imgur.com/Ie091r9.png"
+  },
+  {
+    "number": "1115",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O115",
+    "pNum": "P159",
+    "name": "Dicelluar",
+    "type": [
+      "Radiation",
+      "Water"
+    ],
+    "evolvesInto": [
+      "1116"
+    ],
+    "family": "1114",
+    "rank": "Silver",
+    "description": "Its unique celluar structure gives it a bizarre ability to survive in the most hostile environments. Its keen sense of smell allows it to locate the sneakiest of Indian elephants.",
+    "imageLink": "https://i.imgur.com/YyUAdjQ.png"
+  },
+  {
+    "number": "1116",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O116",
+    "pNum": "P160",
+    "name": "Panmoeba",
+    "type": [
+      "Radiation",
+      "Water"
+    ],
+    "evolvesInto": [],
+    "family": "1114",
+    "rank": "Gold",
+    "description": "Panmoeba's heart is a complex creature in its own right. It grew legs in order to leg it in case it's slime exterior is removed in some way.",
+    "imageLink": "https://i.imgur.com/t36YX9X.png"
+  },
+  {
+    "number": "1120",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O120",
+    "pNum": "P233",
+    "name": "Centuriworm",
+    "type": [
+      "Fire",
+      "Steel",
+      "Plasma"
+    ],
+    "evolvesInto": [],
+    "family": "1120",
+    "rank": "Gold",
+    "description": "Centuriworm's carapce slightly resembles a tank. The marshes it patrols are usually empty as its presence drives the local fauna away.",
+    "imageLink": "https://i.imgur.com/gouaR7c.png"
+  },
+  {
+    "number": "1143",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O143",
+    "pNum": "P261",
+    "name": "Scorpright",
+    "type": [
+      "Bug",
+      "Dark"
+    ],
+    "evolvesInto": [
+      "1144"
+    ],
+    "family": "1143",
+    "rank": "Bronze",
+    "description": "This critter shines dimly in the dark. A group of them communicates by adjusting its brightness slightly.",
+    "imageLink": "https://i.imgur.com/iWdkElb.png"
+  },
+  {
+    "number": "1144",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O144",
+    "pNum": "P262",
+    "name": "Dazzletaur",
+    "type": [
+      "Bug",
+      "Dark"
+    ],
+    "evolvesInto": [
+      "1145"
+    ],
+    "family": "1143",
+    "rank": "Silver",
+    "description": "Dazzletaurs live in small tribes in deserts. Their skin's brightness is strong enough to blind an Indian elephant.",
+    "imageLink": "https://i.imgur.com/4qmOBSQ.png"
+  },
+  {
+    "number": "1145",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "O145",
+    "pNum": "P263",
+    "name": "Arachlit",
+    "type": [
+      "Bug",
+      "Dark",
+      "Electric"
+    ],
+    "evolvesInto": [],
+    "family": "1143",
+    "rank": "Gold",
+    "description": "This monster lives deep inside caves. Many missing miners are presumed to have mistaken its bright scales for an exit.",
+    "imageLink": "https://i.imgur.com/V1rVXmx.png"
+  },
+  {
+    "number": "1379",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P361",
+    "name": "Koshmare",
+    "type": [
+      "Flying",
+      "Dark",
+      "Bug"
+    ],
+    "evolvesInto": [],
+    "family": "1368",
+    "rank": "Diamond",
+    "description": "Koshmare is a hypothetical creatrue not yet confirmed to exist. There is a large amount of consistent reports of it being sighted in dreams, but any attempt to track it down did not yield results.",
+    "imageLink": "https://i.imgur.com/ybR2y7B.png"
+  },
+  {
+    "number": "1500",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P190",
+    "name": "Clawmaton",
+    "type": [
+      "Steel"
+    ],
+    "evolvesInto": [
+      "1501"
+    ],
+    "family": "1500",
+    "rank": "Bronze",
+    "description": "This creature scuttles around scrapyards looking for bolts to eat. It can use its claws to strike with surgical percision.",
+    "imageLink": "https://i.imgur.com/f8BxK9j.png"
+  },
+  {
+    "number": "1501",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P191",
+    "name": "Crabrage",
+    "type": [
+      "Steel",
+      "Plasma",
+      "Fighting"
+    ],
+    "evolvesInto": [
+      "1501"
+    ],
+    "family": "1500",
+    "rank": "Gold",
+    "description": "Crabrage spends most of its time actively looking for a fight. It will go after any Indian elephant that looks at it the wrong way.",
+    "imageLink": "https://i.imgur.com/R34thGO.png"
+  },
+  {
+    "number": "1502",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P192",
+    "name": "Geysurge",
+    "type": [
+      "Water"
+    ],
+    "evolvesInto": [
+      "1503"
+    ],
+    "family": "1502",
+    "rank": "Bronze",
+    "description": "This curious critter pokes its head out of the ground looking for food. In winter it sometimes freezes over, making a nice looking ice pillar.",
+    "imageLink": "https://i.imgur.com/9q505yL.png"
+  },
+  {
+    "number": "1503",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P193",
+    "name": "Squallie",
+    "type": [
+      "Water"
+    ],
+    "evolvesInto": [],
+    "family": "1502",
+    "rank": "Gold",
+    "description": "This monster lives in the sea, creating massive waves capturing nearby sealife into its grasp. You can tell it's nearby if it inexplicably starts raining.",
+    "imageLink": "https://i.imgur.com/fsYSFQb.png"
+  },
+  {
+    "number": "1504",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P200",
+    "name": "Stuffosaurus",
+    "type": [
+      "Ghost",
+      "Flying",
+      "Dragon"
+    ],
+    "evolvesInto": [],
+    "family": "0811",
+    "rank": "Gold",
+    "description": "After growing big and strong, this creature finally leaves its adopted trash filled home. It now roams the fields among Indian elephants.",
+    "imageLink": "https://i.imgur.com/68gFrey.png"
+  },
+  {
+    "number": "1511",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P216",
+    "name": "Shadesurfer",
+    "type": [
+      "Ghost",
+      "Psychic",
+      "Dark"
+    ],
+    "evolvesInto": [],
+    "family": "0505",
+    "rank": "Gold",
+    "description": "Despite its size, it can effortlessly dive into the shade realm and travel along the shadows. The multiple eyes on its body are always alert, even when sleeping.",
+    "imageLink": "https://i.imgur.com/p55H936.png"
+  },
+  {
+    "number": "1519",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P247",
+    "name": "Spiritwig",
+    "type": [
+      "Grass",
+      "Ghost"
+    ],
+    "evolvesInto": [
+      "1520"
+    ],
+    "family": "1519",
+    "rank": "Bronze",
+    "description": "It lives in dense forests overlooking an area. If a small creature approaches a predator's territory, it will start rustling its leaves to scare them away.",
+    "imageLink": "https://i.imgur.com/7mWIPyx.png"
+  },
+  {
+    "number": "1520",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P248",
+    "name": "Forestnight",
+    "type": [
+      "Grass",
+      "Ghost",
+      "Fairy"
+    ],
+    "evolvesInto": [],
+    "family": "1519",
+    "rank": "Gold",
+    "description": "It patrols the skies above the forest, scanning for any disturbances. If it sense a threat to the environment, it will attack the offender.",
+    "imageLink": "https://i.imgur.com/u5PSap3.png"
+  }
+]
