@@ -15,7 +15,7 @@
     "family": "0010",
     "rank": "Bronze",
     "description": "The little chick stays in its shell for a while after hatching. It feeds on little insects that crawl nearby.",
-    "imageLink": "https://i.imgur.com/XtVPZaw.png"
+    "imageLink": "./assets/CreatureImages/0010.png"
   },
   {
     "number": "0011",
@@ -36,7 +36,7 @@
     "family": "0011",
     "rank": "Silver",
     "description": "As the shell grows small, the fletchling becomes more confident. It hunt smaller critters, threatening them with its claws.",
-    "imageLink": "https://i.imgur.com/ro8qTk0.png"
+    "imageLink": "./assets/CreatureImages/0011.png"
   },
   {
     "number": "0012",
@@ -56,7 +56,7 @@
     "family": "0011",
     "rank": "Gold",
     "description": "Mastering flight, surface and water, it fights everything and anything that comes within its territory. Its punch is strong enough to knockout an Indian elephant.",
-    "imageLink": "https://i.imgur.com/xyOTAkM.png"
+    "imageLink": "./assets/CreatureImages/0012.png"
   },
   {
     "number": "0030",
@@ -76,7 +76,7 @@
     "family": "0030",
     "rank": "Bronze",
     "description": "This little guy floats from power source to power source. It feeds on energy to grow big and strong.",
-    "imageLink": "https://i.imgur.com/DbVxixh.png"
+    "imageLink": "./assets/CreatureImages/0030.png"
   },
   {
     "number": "0031",
@@ -97,7 +97,7 @@
     "family": "0030",
     "rank": "Silver",
     "description": "After consuming large amounts of energy, it plugs its tendrils into the ground. This behavour is theorised to help with digestion.",
-    "imageLink": "https://i.imgur.com/PBq0yv1.png"
+    "imageLink": "./assets/CreatureImages/0031.png"
   },
   {
     "number": "0032",
@@ -117,7 +117,7 @@
     "family": "0030",
     "rank": "Gold",
     "description": "Titantricity roams the fields around powerlines. This hungry monster is often the cause of power outages in towns.",
-    "imageLink": "https://i.imgur.com/3B5WF8u.png"
+    "imageLink": "./assets/CreatureImages/0032.png"
   },
   {
     "number": "0066",
@@ -137,7 +137,7 @@
     "family": "0066",
     "rank": "Bronze",
     "description": "Spidorbies harmlessly wander around forests hoping to stumble into food. When threatened, they roll away in panic.",
-    "imageLink": "https://i.imgur.com/ZTrxtOi.png"
+    "imageLink": "./assets/CreatureImages/0066.png"
   },
   {
     "number": "0067",
@@ -155,7 +155,7 @@
     "family": "0066",
     "rank": "Silver",
     "description": "Its shell is made of thick web. While it hibernates, its internal temperature reaches as high as 100 degrees.",
-    "imageLink": "https://i.imgur.com/Vlu8mYC.png"
+    "imageLink": "./assets/CreatureImages/0067.png"
   },
   {
     "number": "0068",
@@ -175,7 +175,7 @@
     "family": "0066",
     "rank": "Gold",
     "description": "It builds elaborate webs around the outskirts of forests. After starting a fire, it hopes the prey will get trapepd in the webs while trying to escape.",
-    "imageLink": "https://i.imgur.com/aNE9yzz.png"
+    "imageLink": "./assets/CreatureImages/0068.png"
   },
   {
     "number": "0111",
@@ -196,7 +196,7 @@
     "family": "0111",
     "rank": "Bronze",
     "description": "It kept its consciousness after death, but could not move without its body. It used short-term possesion of smaller critters to reassemble its skeleton.",
-    "imageLink": "https://i.imgur.com/yrK1Upy.png"
+    "imageLink": "./assets/CreatureImages/0111.png"
   },
   {
     "number": "0112",
@@ -214,7 +214,7 @@
     "family": "0111",
     "rank": "Silver",
     "description": "Genetic research has allowed to have its body regenerated based on its memories. Cyborg parts allow it to move slowly in the meantime.",
-    "imageLink": "https://i.imgur.com/MnsFJI4.png"
+    "imageLink": "./assets/CreatureImages/0112.png"
   },
   {
     "number": "0113",
@@ -233,7 +233,7 @@
     "family": "0111",
     "rank": "Gold",
     "description": "After reconstruction, the dinosaur has gained immense speed. It enjoys testing its speed by chasing Indian elephants.",
-    "imageLink": "https://i.imgur.com/huJ5jxv.png"
+    "imageLink": "./assets/CreatureImages/0113.png"
   },
   {
     "number": "0137",
@@ -253,7 +253,7 @@
     "family": "0137",
     "rank": "Bronze",
     "description": "Clodsoil moves around dirt, absorbing nutriens as it goes. Sometimes it eats the grass growing on it as well.",
-    "imageLink": "https://i.imgur.com/pqCfuqK.png"
+    "imageLink": "./assets/CreatureImages/0137.png"
   },
   {
     "number": "0138",
@@ -273,7 +273,7 @@
     "family": "0137",
     "rank": "Silver",
     "description": "It can merge with earth below it to maneuver around quickly. The flower on its head is part of its nervous system.",
-    "imageLink": "https://i.imgur.com/L10zu3P.png"
+    "imageLink": "./assets/CreatureImages/0138.png"
   },
   {
     "number": "0139",
@@ -293,7 +293,7 @@
     "family": "0137",
     "rank": "Gold",
     "description": "To a naked eye, this creature looks like a small hill. It waits for unsuspecting prey to approach before eating it whole.",
-    "imageLink": "https://i.imgur.com/dvqL6mR.png"
+    "imageLink": "./assets/CreatureImages/0139.png"
   },
   {
     "number": "0204",
@@ -313,7 +313,7 @@
     "family": "0204",
     "rank": "Bronze",
     "description": "This mysterious lizard scurries at night eating bolts. It squirts ligth blue liquid from its eyes for protection.",
-    "imageLink": "https://i.imgur.com/HqpbrOX.png"
+    "imageLink": "./assets/CreatureImages/0204.png"
   },
   {
     "number": "0205",
@@ -335,7 +335,7 @@
     "family": "0204",
     "rank": "Silver",
     "description": "This creature instantly extends its neck to reach far away targets. The metal coat covering its throat can sustain a lot of damage.",
-    "imageLink": "https://i.imgur.com/EclOtT5.png"
+    "imageLink": "./assets/CreatureImages/0205.png"
   },
   {
     "number": "0206",
@@ -355,7 +355,7 @@
     "family": "0204",
     "rank": "Gold",
     "description": "Despite being made of steel, it can float effortlessly in the air. Its iron will also allows it to survive in space.",
-    "imageLink": "https://i.imgur.com/gCsD1cx.png"
+    "imageLink": "./assets/CreatureImages/0206.png"
   },
   {
     "number": "0281",
@@ -376,7 +376,7 @@
     "family": "0404",
     "rank": "Silver",
     "description": "The four heads are efficient at multitasking. One baits critters with nectar, other fights off predators, and the final two eat dirt for nutrients.",
-    "imageLink": "https://i.imgur.com/TDTXWZ7.png"
+    "imageLink": "./assets/CreatureImages/0281.png"
   },
   {
     "number": "0318",
@@ -396,7 +396,7 @@
     "family": "0794",
     "rank": "Gold",
     "description": "This rocky creature absorbs all nearby misfortune. It tricks other creatures into an unwinnable game to aggrevate them and feed on their strong anger.",
-    "imageLink": "https://i.imgur.com/4bkPhoI.png"
+    "imageLink": "./assets/CreatureImages/0318.png"
   },
   {
     "number": "0319",
@@ -416,7 +416,7 @@
     "family": "0794",
     "rank": "Gold",
     "description": "Ghamblegoul invites weaker souls for some light-hearted bets. After a few deliberate losses, it ramps up to win the other player's soul in a rigged fashion.",
-    "imageLink": "https://i.imgur.com/dOYPNOk.png"
+    "imageLink": "./assets/CreatureImages/0319.png"
   },
   {
     "number": "0328",
@@ -438,7 +438,7 @@
     "family": "0505",
     "rank": "Silver",
     "description": "This critter moves around using its spectral limbs. The stronger its soul, the more arms it can have.",
-    "imageLink": "https://i.imgur.com/9YTIc7J.png"
+    "imageLink": "./assets/CreatureImages/0328.png"
   },
   {
     "number": "0352",
@@ -456,7 +456,7 @@
     "family": "0352",
     "rank": "Diamond",
     "description": "The everchanging eyball flies across the skies at immense speeds. Ancient folk used to worship this monster, dubbing it \"Spirit of Flight\".",
-    "imageLink": "https://i.imgur.com/e5rpymQ.png"
+    "imageLink": "./assets/CreatureImages/0352.png"
   },
   {
     "number": "0388",
@@ -476,7 +476,7 @@
     "family": "0388",
     "rank": "Bronze",
     "description": "This critter assumes an appearanece of a discarded balloon. It feeds on trash after being thrown away when mistaken for litter.",
-    "imageLink": "https://i.imgur.com/XCH6rlX.png"
+    "imageLink": "./assets/CreatureImages/0388.png"
   },
   {
     "number": "0389",
@@ -496,7 +496,7 @@
     "family": "0388",
     "rank": "Silver",
     "description": "It's body is full of electrified air. Touching it just once will make the victim experience static shocks for hours.",
-    "imageLink": "https://i.imgur.com/XOin9JU.png"
+    "imageLink": "./assets/CreatureImages/0389.png"
   },
   {
     "number": "0404",
@@ -516,7 +516,7 @@
     "family": "0404",
     "rank": "Bronze",
     "description": "The little sprout needs to eat three times its weight in a day. It hops around, using all of its strength to lift its pot.",
-    "imageLink": "https://i.imgur.com/zigkWlP.png"
+    "imageLink": "./assets/CreatureImages/0404.png"
   },
   {
     "number": "0405",
@@ -536,7 +536,7 @@
     "family": "0404",
     "rank": "Gold",
     "description": "None of the heads have a mind of its own. Their brains have merged into one inside of the reinforced pot.",
-    "imageLink": "https://i.imgur.com/259iQMK.png"
+    "imageLink": "./assets/CreatureImages/0405.png"
   },
   {
     "number": "0416",
@@ -557,7 +557,7 @@
     "family": "0416",
     "rank": "Bronze",
     "description": "The tiny Catirpath spends most of its day eating leaves and sleeping. It doesn't know a parasite resides within in.",
-    "imageLink": "https://i.imgur.com/6pnzQ8C.png"
+    "imageLink": "./assets/CreatureImages/0416.png"
   },
   {
     "number": "0417",
@@ -576,7 +576,7 @@
     "family": "0416",
     "rank": "Silver",
     "description": "Feeling disturbances from inside, the bug fruitlessly tries to drive its parasite away. This leaves it in a scarred state.",
-    "imageLink": "https://i.imgur.com/xAiAU6j.png"
+    "imageLink": "./assets/CreatureImages/0417.png"
   },
   {
     "number": "0418",
@@ -598,7 +598,7 @@
     "family": "0416",
     "rank": "Gold",
     "description": "After reaching maturity, the parasite roams freely, abandoning its host. It's toxic is potent enough to make an Indian elephant suffer.",
-    "imageLink": "https://i.imgur.com/rLJhxq4.png"
+    "imageLink": "./assets/CreatureImages/0418.png"
   },
   {
     "number": "0419",
@@ -617,7 +617,7 @@
     "family": "0416",
     "rank": "Silver",
     "description": "In an effort to fight off its disease, the bug develops a powerful psychic-based immune system. It's mental powers are fighting to defeat the parasite once and for all.",
-    "imageLink": "https://i.imgur.com/pQSO4I9.png"
+    "imageLink": "./assets/CreatureImages/0419.png"
   },
   {
     "number": "0420",
@@ -637,7 +637,7 @@
     "family": "0416",
     "rank": "Gold",
     "description": "The powder produced by this monster have potent healing qualities. A concoction brewed from it can make a sickly Indian elephant healthy again.",
-    "imageLink": "https://i.imgur.com/dHiqzb2.png"
+    "imageLink": "./assets/CreatureImages/0420.png"
   },
   {
     "number": "0458",
@@ -659,7 +659,7 @@
     "family": "0794",
     "rank": "Silver",
     "description": "The creature seems to keep track of something on its rocky body. It's very conflicted on the role of luck in its life.",
-    "imageLink": "https://i.imgur.com/048ROZ6.png"
+    "imageLink": "./assets/CreatureImages/0458.png"
   },
   {
     "number": "0482",
@@ -681,7 +681,7 @@
     "family": "0811",
     "rank": "Silver",
     "description": "This doll looks to be based on a dinosaur with wings. It chases off critters away from its home trash bin.",
-    "imageLink": "https://i.imgur.com/NYcqS0F.png"
+    "imageLink": "./assets/CreatureImages/0482.png"
   },
   {
     "number": "0483",
@@ -701,7 +701,7 @@
     "family": "0811",
     "rank": "Gold",
     "description": "It ate so much it is now square. An Indian elephant could sit on it comfortably.",
-    "imageLink": "https://i.imgur.com/S0nSf18.png"
+    "imageLink": "./assets/CreatureImages/0483.png"
   },
   {
     "number": "0505",
@@ -722,7 +722,7 @@
     "family": "0505",
     "rank": "Bronze",
     "description": "This shiny creature lies motionless in grass. It waits for a curios critter to approach it before snaring it with its ghastly claws.",
-    "imageLink": "https://i.imgur.com/2LdBcep.png"
+    "imageLink": "./assets/CreatureImages/0505.png"
   },
   {
     "number": "0794",
@@ -743,7 +743,7 @@
     "family": "0794",
     "rank": "Bronze",
     "description": "This ghastly critter enjoys challenge. It eagerly bets its own food to see if it can do better than its rivals.",
-    "imageLink": "https://i.imgur.com/mMu4809.png"
+    "imageLink": "./assets/CreatureImages/0794.png"
   },
   {
     "number": "0809",
@@ -763,7 +763,7 @@
     "family": "0388",
     "rank": "Gold",
     "description": "The flate that lifts this monster is its very own soul. It flies high enough, then drops on its target trying to crush them.",
-    "imageLink": "https://i.imgur.com/UVj2GMC.png"
+    "imageLink": "./assets/CreatureImages/0809.png"
   },
   {
     "number": "0811",
@@ -783,7 +783,7 @@
     "family": "0811",
     "rank": "Bronze",
     "description": "This ghost lives in a toy long abandoned by its owner. It prefers to stick around landfills.",
-    "imageLink": "https://i.imgur.com/Akp62Gn.png"
+    "imageLink": "./assets/CreatureImages/0811.png"
   },
   {
     "number": "0901",
@@ -803,7 +803,7 @@
     "family": "0901",
     "rank": "Bronze",
     "description": "This critters seems to be cosntantly spinning in place. This tactic could disorient predators.",
-    "imageLink": "https://i.imgur.com/JYye0jt.png"
+    "imageLink": "./assets/CreatureImages/0901.png"
   },
   {
     "number": "0902",
@@ -824,7 +824,7 @@
     "family": "0901",
     "rank": "Silver",
     "description": "The friction is creates from spinning can start a fire. Wherever it goes, it leaves a burning trail behind it.",
-    "imageLink": "https://i.imgur.com/ODNOj6u.png"
+    "imageLink": "./assets/CreatureImages/0902.png"
   },
   {
     "number": "0903",
@@ -844,7 +844,7 @@
     "family": "0901",
     "rank": "Gold",
     "description": "This monster does elaborate spinny dances to distract its enemies. Those mesmerised by its motion tend to not notice being engulfed in flames.",
-    "imageLink": "https://i.imgur.com/AKckJVo.png"
+    "imageLink": "./assets/CreatureImages/0903.png"
   },
   {
     "number": "0917",
@@ -864,7 +864,7 @@
     "family": "0416",
     "rank": "Gold",
     "description": "The soul of the bug persists within the husk after the parasite has long left. The wings it creates out of pure malice are frequently used for devastating cuts.",
-    "imageLink": "https://i.imgur.com/Ov4iaSO.png"
+    "imageLink": "./assets/CreatureImages/0917.png"
   },
   {
     "number": "0918",
@@ -884,7 +884,7 @@
     "family": "0416",
     "rank": "Gold",
     "description": "The parasite's soul that once lived in the bug now resides within this husk. It uses its wings created from its gratitude for a second chance for life to protect weaker creatures.",
-    "imageLink": "https://i.imgur.com/6wuJTFW.png"
+    "imageLink": "./assets/CreatureImages/0918.png"
   },
   {
     "number": "0954",
@@ -903,7 +903,7 @@
     "family": "0954",
     "rank": "Gold",
     "description": "This monster is filled with anxiety. It trembles in fear and the area around it shakes noticeably.",
-    "imageLink": "https://i.imgur.com/OobREMW.png"
+    "imageLink": "./assets/CreatureImages/0954.png"
   },
   {
     "number": "0984",
@@ -923,7 +923,7 @@
     "family": "0984",
     "rank": "Bronze",
     "description": "The creature sits lazily on the ground as absorbs minerals from the soil. Those observing it always see it staring back.",
-    "imageLink": "https://i.imgur.com/0v1ens6.png"
+    "imageLink": "./assets/CreatureImages/0984.png"
   },
   {
     "number": "0985",
@@ -944,7 +944,7 @@
     "family": "0984",
     "rank": "Silver",
     "description": "Its rocky carapace keeps protects its mostly liquid innards. The hand-tail sticks itself to objects of interest by melting into them slightly.",
-    "imageLink": "https://i.imgur.com/XSsONrR.png"
+    "imageLink": "./assets/CreatureImages/0985.png"
   },
   {
     "number": "0986",
@@ -964,7 +964,7 @@
     "family": "0984",
     "rank": "Gold",
     "description": "The smaller the specimen is, the more energy it keeps. A controlled explosion by this monster can wipe out a small population of Indian elephants.",
-    "imageLink": "https://i.imgur.com/WvytZbz.png"
+    "imageLink": "./assets/CreatureImages/0986.png"
   },
   {
     "number": "1071",
@@ -984,7 +984,7 @@
     "family": "1071",
     "rank": "Bronze",
     "description": "These dragons pace around caves looking for crystals to eat. Their stomach appears to act as a massive eye as well.",
-    "imageLink": "https://i.imgur.com/pzE4K4s.png"
+    "imageLink": "./assets/CreatureImages/1071.png"
   },
   {
     "number": "1072",
@@ -1005,7 +1005,7 @@
     "family": "1071",
     "rank": "Silver",
     "description": "A diet of rare rocks made it grow a crystal on its back. The spiny skin it has makes other creatures avoid touching it.",
-    "imageLink": "https://i.imgur.com/8reZ9m0.png"
+    "imageLink": "./assets/CreatureImages/1072.png"
   },
   {
     "number": "1073",
@@ -1025,7 +1025,7 @@
     "family": "1071",
     "rank": "Gold",
     "description": "The superior vision on its stomach eye makes this monster prefer using it for sight. A strike with its tentacles can leave a mark on an Indian elephant for two weeks.",
-    "imageLink": "https://i.imgur.com/Q1CH1In.png"
+    "imageLink": "./assets/CreatureImages/1073.png"
   },
   {
     "number": "1114",
@@ -1046,7 +1046,7 @@
     "family": "1114",
     "rank": "Bronze",
     "description": "Interestingly, the heart of this cresture is made of a single cell. It subtly manipulates moisture around itself to create a gooey layer of protection.",
-    "imageLink": "https://i.imgur.com/Ie091r9.png"
+    "imageLink": "./assets/CreatureImages/1114.png"
   },
   {
     "number": "1115",
@@ -1067,7 +1067,7 @@
     "family": "1114",
     "rank": "Silver",
     "description": "Its unique celluar structure gives it a bizarre ability to survive in the most hostile environments. Its keen sense of smell allows it to locate the sneakiest of Indian elephants.",
-    "imageLink": "https://i.imgur.com/YyUAdjQ.png"
+    "imageLink": "./assets/CreatureImages/1115.png"
   },
   {
     "number": "1116",
@@ -1086,7 +1086,7 @@
     "family": "1114",
     "rank": "Gold",
     "description": "Panmoeba's heart is a complex creature in its own right. It grew legs in order to leg it in case it's slime exterior is removed in some way.",
-    "imageLink": "https://i.imgur.com/t36YX9X.png"
+    "imageLink": "./assets/CreatureImages/1116.png"
   },
   {
     "number": "1120",
@@ -1106,7 +1106,7 @@
     "family": "1120",
     "rank": "Gold",
     "description": "Centuriworm's carapce slightly resembles a tank. The marshes it patrols are usually empty as its presence drives the local fauna away.",
-    "imageLink": "https://i.imgur.com/gouaR7c.png"
+    "imageLink": "./assets/CreatureImages/1120.png"
   },
   {
     "number": "1143",
@@ -1127,7 +1127,7 @@
     "family": "1143",
     "rank": "Bronze",
     "description": "This critter shines dimly in the dark. A group of them communicates by adjusting its brightness slightly.",
-    "imageLink": "https://i.imgur.com/iWdkElb.png"
+    "imageLink": "./assets/CreatureImages/1143.png"
   },
   {
     "number": "1144",
@@ -1148,7 +1148,7 @@
     "family": "1143",
     "rank": "Silver",
     "description": "Dazzletaurs live in small tribes in deserts. Their skin's brightness is strong enough to blind an Indian elephant.",
-    "imageLink": "https://i.imgur.com/4qmOBSQ.png"
+    "imageLink": "./assets/CreatureImages/1144.png"
   },
   {
     "number": "1145",
@@ -1168,7 +1168,7 @@
     "family": "1143",
     "rank": "Gold",
     "description": "This monster lives deep inside caves. Many missing miners are presumed to have mistaken its bright scales for an exit.",
-    "imageLink": "https://i.imgur.com/V1rVXmx.png"
+    "imageLink": "./assets/CreatureImages/1145.png"
   },
   {
     "number": "1379",
@@ -1188,7 +1188,7 @@
     "family": "1368",
     "rank": "Diamond",
     "description": "Koshmare is a hypothetical creatrue not yet confirmed to exist. There is a large amount of consistent reports of it being sighted in dreams, but any attempt to track it down did not yield results.",
-    "imageLink": "https://i.imgur.com/ybR2y7B.png"
+    "imageLink": "./assets/CreatureImages/1379.png"
   },
   {
     "number": "1500",
@@ -1208,7 +1208,7 @@
     "family": "1500",
     "rank": "Bronze",
     "description": "This creature scuttles around scrapyards looking for bolts to eat. It can use its claws to strike with surgical percision.",
-    "imageLink": "https://i.imgur.com/f8BxK9j.png"
+    "imageLink": "./assets/CreatureImages/1500.png"
   },
   {
     "number": "1501",
@@ -1230,7 +1230,7 @@
     "family": "1500",
     "rank": "Gold",
     "description": "Crabrage spends most of its time actively looking for a fight. It will go after any Indian elephant that looks at it the wrong way.",
-    "imageLink": "https://i.imgur.com/R34thGO.png"
+    "imageLink": "./assets/CreatureImages/1501.png"
   },
   {
     "number": "1502",
@@ -1250,7 +1250,7 @@
     "family": "1502",
     "rank": "Bronze",
     "description": "This curious critter pokes its head out of the ground looking for food. In winter it sometimes freezes over, making a nice looking ice pillar.",
-    "imageLink": "https://i.imgur.com/9q505yL.png"
+    "imageLink": "./assets/CreatureImages/1502.png"
   },
   {
     "number": "1503",
@@ -1268,7 +1268,7 @@
     "family": "1502",
     "rank": "Gold",
     "description": "This monster lives in the sea, creating massive waves capturing nearby sealife into its grasp. You can tell it's nearby if it inexplicably starts raining.",
-    "imageLink": "https://i.imgur.com/fsYSFQb.png"
+    "imageLink": "./assets/CreatureImages/1503.png"
   },
   {
     "number": "1504",
@@ -1288,7 +1288,7 @@
     "family": "0811",
     "rank": "Gold",
     "description": "After growing big and strong, this creature finally leaves its adopted trash filled home. It now roams the fields among Indian elephants.",
-    "imageLink": "https://i.imgur.com/68gFrey.png"
+    "imageLink": "./assets/CreatureImages/1504.png"
   },
   {
     "number": "1511",
@@ -1308,7 +1308,7 @@
     "family": "0505",
     "rank": "Gold",
     "description": "Despite its size, it can effortlessly dive into the shade realm and travel along the shadows. The multiple eyes on its body are always alert, even when sleeping.",
-    "imageLink": "https://i.imgur.com/p55H936.png"
+    "imageLink": "./assets/CreatureImages/1511.png"
   },
   {
     "number": "1519",
@@ -1329,7 +1329,7 @@
     "family": "1519",
     "rank": "Bronze",
     "description": "It lives in dense forests overlooking an area. If a small creature approaches a predator's territory, it will start rustling its leaves to scare them away.",
-    "imageLink": "https://i.imgur.com/7mWIPyx.png"
+    "imageLink": "./assets/CreatureImages/1519.png"
   },
   {
     "number": "1520",
@@ -1349,6 +1349,6 @@
     "family": "1519",
     "rank": "Gold",
     "description": "It patrols the skies above the forest, scanning for any disturbances. If it sense a threat to the environment, it will attack the offender.",
-    "imageLink": "https://i.imgur.com/u5PSap3.png"
+    "imageLink": "./assets/CreatureImages/1520.png"
   }
 ]
