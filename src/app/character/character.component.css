@@ -1,0 +1,29 @@
+.character {
+    display: flex;
+    flex-direction: column;
+    width: 8.5rem;
+}
+
+.character:hover .character-image {
+    background: #FFFFFF33;
+}
+
+.character-image {
+    border-style: inset;
+    border: 0.5rem solid #CCC;
+    width: 8rem;
+    height: auto;
+    justify-content: center;
+}
+
+.character-name{
+    justify-content: center;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.character-page-link {
+    margin-top: 0.5rem;
+    color:#CCC;
+    text-decoration: none;
+}

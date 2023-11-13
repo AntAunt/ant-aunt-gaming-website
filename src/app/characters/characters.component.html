@@ -1,2 +1,9 @@
-<p>This page, is, under-construction.</p>
-<p>Perhaps you meant to click "Creatures" next to it? Hmm??</p>
+<h1 class="title">Characters</h1>
+<section class="characters">
+    <div class="thumbnails">
+        <app-character 
+            *ngFor="let character of characterArray"
+            [character]="character">
+        </app-character>
+    </div>
+</section>

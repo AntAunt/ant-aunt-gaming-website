@@ -4,3 +4,9 @@
     justify-content: space-around;
     align-content: space-around;
 }
+
+.title {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 0px;
+}

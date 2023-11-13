@@ -2,7 +2,6 @@ import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Creature } from '../creature'
 import { CreatureComponent } from '../creature/creature.component';
-import data from '../../assets/creatures.json';
 import { CreatureService } from '../creature.service';
 
 @Component({
