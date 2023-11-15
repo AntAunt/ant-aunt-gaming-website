@@ -1,8 +1,8 @@
 import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { CharacterComponent } from '../character/character.component';
-import { Character } from '../character';
-import { CharacterService } from '../character.service';
+import { Character } from '../../character';
+import { CharacterService } from '../../character.service';
 
 @Component({
   selector: 'app-characters',

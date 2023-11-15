@@ -2,12 +2,12 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { RouterModule } from '@angular/router';
-import { NewsComponent } from './news/news.component';
-import { BannerComponent } from './banner/banner.component';
-import { NavbarComponent } from './navbar/navbar.component';
-import { FooterComponent } from './footer/footer.component';
-import { CreaturesComponent } from './creatures/creatures.component';
-import { CreatureLoreComponent } from './creature-lore/creature-lore.component';
+import { NewsComponent } from './components/news/news.component';
+import { BannerComponent } from './components/banner/banner.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { CreaturesComponent } from './components/creatures/creatures.component';
+import { CreatureLoreComponent } from './components/creature-lore/creature-lore.component';
 
 @Component({
   selector: 'app-root',

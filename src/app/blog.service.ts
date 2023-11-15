@@ -1,0 +1,30 @@
+import { Injectable } from '@angular/core';
+import { Newsblog } from './newsblog';
+import data from '../assets/newblogs.json';
+
+@Injectable({
+    providedIn: 'root'
+})
+
+export class BlogService {
+
+    readonly blogArray: Array<Newsblog> = data as Newsblog[];
+
+    getAllBlogs(): Newsblog[] {
+        return this.blogArray
+    }
+
+    getCreatureById(id: number) : Newsblog | undefined {
+        return this.blogArray.find(blog => blog.id === id)
+    }
+
+    getNewestBlogs(pageSize = data.length){
+        data.sort((a,b) => (a.id > b.id ? -1 : 1));
+        if (pageSize >= data.length) {
+            return data;
+        }
+        data.sort((a,b) => (a.id > b.id ? -1 : 1));
+        return data.slice(0, pageSize);
+    }
+
+}

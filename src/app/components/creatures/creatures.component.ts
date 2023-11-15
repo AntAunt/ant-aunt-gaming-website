@@ -1,8 +1,8 @@
 import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { Creature } from '../creature'
+import { Creature } from '../../creature'
 import { CreatureComponent } from '../creature/creature.component';
-import { CreatureService } from '../creature.service';
+import { CreatureService } from '../../creature.service';
 
 @Component({
     selector: 'app-creatures',

@@ -1,8 +1,8 @@
 import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ActivatedRoute } from '@angular/router';
-import { Creature } from '../creature';
-import { CreatureService } from '../creature.service'; 
+import { Creature } from '../../creature';
+import { CreatureService } from '../../creature.service'; 
 
 @Component({
   selector: 'app-creature-lore',

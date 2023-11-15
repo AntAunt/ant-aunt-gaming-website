@@ -1,5 +1,3 @@
-import data from '../assets/creatures.json';
-
 export interface Creature {
     number: string;
     rNum: string;

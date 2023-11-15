@@ -1,11 +1,11 @@
 import { Routes } from '@angular/router';
-import { CreaturesComponent } from './creatures/creatures.component';
-import { CreatureLoreComponent } from './creature-lore/creature-lore.component';
-import { NewsComponent } from './news/news.component';
-import { CharactersComponent } from './characters/characters.component';
-import { LocationsComponent } from './locations/locations.component';
-import { ItemsComponent } from './items/items.component';
-import { AboutComponent } from './about/about.component';
+import { CreaturesComponent } from './components/creatures/creatures.component';
+import { CreatureLoreComponent } from './components/creature-lore/creature-lore.component';
+import { NewsComponent } from './components/news/news.component';
+import { CharactersComponent } from './components/characters/characters.component';
+import { LocationsComponent } from './components/locations/locations.component';
+import { ItemsComponent } from './components/items/items.component';
+import { AboutComponent } from './components/about/about.component';
 
 const routeConfig: Routes = [
     {
