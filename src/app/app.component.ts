@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { RouterModule } from '@angular/router';
+import { HttpClientModule } from '@angular/common/http';
 import { NewsComponent } from './components/news/news.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
@@ -15,6 +16,7 @@ import { CreatureLoreComponent } from './components/creature-lore/creature-lore.
   imports: [CommonModule,
     RouterOutlet,
     RouterModule,
+    HttpClientModule,
     NewsComponent,
     CreaturesComponent,
     CreatureLoreComponent,

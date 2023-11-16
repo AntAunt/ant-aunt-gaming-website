@@ -12,10 +12,12 @@ import { BlogService } from '../../blog.service';
   styleUrl: './news.component.css'
 })
 export class NewsComponent {
+[x: string]: any;
   blogArray: Newsblog[] = [];
   blogService: BlogService = inject(BlogService);
 
   constructor() {
-    this.blogArray = this.blogService.getAllBlogs()
+    this.blogArray = this.blogService.getNewestBlogs()
+    console.log(this.blogArray);
   }
 }

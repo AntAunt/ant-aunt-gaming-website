@@ -14,7 +14,7 @@ export class BlogService {
         return this.blogArray
     }
 
-    getCreatureById(id: number) : Newsblog | undefined {
+    getBlogById(id: number) : Newsblog | undefined {
         return this.blogArray.find(blog => blog.id === id)
     }
 

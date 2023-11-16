@@ -1,6 +1,7 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, OnChanges } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Newsblog } from '../../newsblog';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-newspost',
@@ -9,8 +10,20 @@ import { Newsblog } from '../../newsblog';
   templateUrl: './newspost.component.html',
   styleUrl: './newspost.component.css'
 })
-export class NewspostComponent {
+export class NewspostComponent implements OnChanges {
 
   @Input() newspost!: Newsblog;
+
+  externalHtml : any;
+
+  constructor(
+    private http: HttpClient
+  ) {
+  }
+  ngOnChanges(): void {
+    this.externalHtml = this.http.get(this.newspost.contentLink, { responseType: 'text' }).subscribe(
+      data => this.externalHtml = data);
+  } 
+
 
 }

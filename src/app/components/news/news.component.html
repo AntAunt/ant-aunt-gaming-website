@@ -1,7 +1,12 @@
 <div class="news-content">
     <h1>News</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-    <p>Translation: page under construction.</p>
-    <p>If you want you'd like to see something, press the green "Creatures" page over there!</p>
+    <div class="news" >
+        <div *ngFor="let newspost of blogArray; let isLast=last">
+        <app-newspost            
+            *ngIf="newspost"
+            [newspost]="newspost">
+        </app-newspost>
+        <div *ngIf="!isLast"><hr></div>
+        </div>
+    </div>
 </div>
