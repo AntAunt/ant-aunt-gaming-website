@@ -1,3 +1,18 @@
 <h1>{{newspost.title}}</h1>
 <h4>{{newspost.date}}</h4>
-<div [innerHTML]="externalHtml"></div>
+<div class="preview">
+    <div
+    #content 
+    class="blog-text" 
+    [class.show]="show"
+    [innerHTML]="externalHtml"
+    [class.note-text]="content.scrollHeight > 100"
+    >
+    </div>
+    <div 
+    *ngIf="content.scrollHeight > 100"
+    class="show"
+    >
+        <p>Read more</p>
+    </div>
+</div>
