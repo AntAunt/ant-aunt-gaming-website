@@ -17,7 +17,6 @@ export class NewsComponent {
   blogService: BlogService = inject(BlogService);
 
   constructor() {
-    this.blogArray = this.blogService.getNewestBlogs()
-    console.log(this.blogArray);
+    this.blogArray = this.blogService.getNewestBlogs(10)
   }
 }

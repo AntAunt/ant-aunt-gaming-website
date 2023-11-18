@@ -13,4 +13,7 @@ export interface Creature {
     rank: string;
     description: string;
     imageLink: string;
+    thoughtsLink: string;
+    notesLink: string;
+    commentaryLink: string;
 }

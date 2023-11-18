@@ -15,16 +15,16 @@ export class BlogService {
     }
 
     getBlogById(id: number) : Newsblog | undefined {
-        return this.blogArray.find(blog => blog.id === id)
+        return this.blogArray.find(blog => blog.id == id)
     }
 
     getNewestBlogs(pageSize = data.length){
-        data.sort((a,b) => (a.id > b.id ? -1 : 1));
+        this.blogArray.sort((a,b) => (a.id > b.id ? -1 : 1));
         if (pageSize >= data.length) {
-            return data;
+            return this.blogArray;
         }
-        data.sort((a,b) => (a.id > b.id ? -1 : 1));
-        return data.slice(0, pageSize);
+        this.blogArray.sort((a,b) => (a.id > b.id ? -1 : 1));
+        return this.blogArray.slice(0, pageSize);
     }
 
 }

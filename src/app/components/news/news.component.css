@@ -1,3 +1,7 @@
 .thumbails hr:last-child {
     display:none
 }
+
+.title {
+    font-size: 2rem;
+}

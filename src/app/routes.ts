@@ -6,11 +6,16 @@ import { CharactersComponent } from './components/characters/characters.componen
 import { LocationsComponent } from './components/locations/locations.component';
 import { ItemsComponent } from './components/items/items.component';
 import { AboutComponent } from './components/about/about.component';
+import { BlogComponent } from './components/blog/blog.component';
 
 const routeConfig: Routes = [
     {
         path: '',
         component: NewsComponent,
+        title: 'News page'
+    },{
+        path: 'news/:id',
+        component: BlogComponent,
         title: 'News page'
     },
     {

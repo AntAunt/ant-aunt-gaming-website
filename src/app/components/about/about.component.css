@@ -1,0 +1,17 @@
+.about-content {
+    display: flex;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.about-me-summary {
+    padding-bottom: 20%;
+}
+
+figcaption {
+    text-align: center;
+}

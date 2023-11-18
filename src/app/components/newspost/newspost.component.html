@@ -13,6 +13,8 @@
     *ngIf="content.scrollHeight > 100"
     class="show"
     >
-        <p>Read more</p>
+        <a class="read-more-link" [routerLink]="['/news', newspost.id]">
+                <p>Read more &#10148;</p>            
+        </a>
     </div>
 </div>

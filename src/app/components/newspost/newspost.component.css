@@ -1,8 +1,11 @@
-.blog-text {
-    overflow: hidden;
-    max-height: 6rem;
-    line-height: 1rem;
-}
 h4 {
     margin: 0rem;
+}
+
+:host >>> .read-more-content {
+    display: none;
+}
+
+.read-more-link {
+    color: #eea5ee;
 }

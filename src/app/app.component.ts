@@ -9,6 +9,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { CreaturesComponent } from './components/creatures/creatures.component';
 import { CreatureLoreComponent } from './components/creature-lore/creature-lore.component';
+import { BlogComponent } from './components/blog/blog.component';
 
 @Component({
   selector: 'app-root',
@@ -18,6 +19,7 @@ import { CreatureLoreComponent } from './components/creature-lore/creature-lore.
     RouterModule,
     HttpClientModule,
     NewsComponent,
+    BlogComponent,
     CreaturesComponent,
     CreatureLoreComponent,
     BannerComponent,
