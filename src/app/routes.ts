@@ -1,4 +1,5 @@
-import { Routes } from '@angular/router';
+import { NgModule, inject } from '@angular/core';
+import { ActivatedRouteSnapshot, ResolveFn, RouterModule, RouterStateSnapshot, Routes } from '@angular/router';
 import { CreaturesComponent } from './components/creatures/creatures.component';
 import { CreatureLoreComponent } from './components/creature-lore/creature-lore.component';
 import { NewsComponent } from './components/news/news.component';
@@ -7,47 +8,65 @@ import { LocationsComponent } from './components/locations/locations.component';
 import { ItemsComponent } from './components/items/items.component';
 import { AboutComponent } from './components/about/about.component';
 import { BlogComponent } from './components/blog/blog.component';
+import { CreatureService } from './creature.service';
+import { BlogService } from './blog.service';
+
+export const customBlogTitleResolver: ResolveFn<string> = 
+    (route: ActivatedRouteSnapshot) => {
+    return inject(BlogService).getBlogById( + route.paramMap.get('id')!)?.title ?? 'unknown blog';
+};
+
+export const CustomCreatureTitleResolver: ResolveFn<string> = 
+    (route: ActivatedRouteSnapshot) => {
+    const creature = inject(CreatureService).getCreatureById(route.paramMap.get('id')!);
+    return creature ? creature.number + " - " + creature.name : 'Unknown creature';
+};
 
 const routeConfig: Routes = [
     {
         path: '',
         component: NewsComponent,
-        title: 'News page'
-    },{
+        title: 'Home of Ant Aunt Gamer'
+    },
+    {
         path: 'news/:id',
         component: BlogComponent,
-        title: 'News page'
+        title: customBlogTitleResolver
     },
     {
         path: 'characters',
         component: CharactersComponent,
-        title: 'Characters page'
+        title: 'Characters of Ant Aunt Gamer'
     },
     {
         path: 'creatures',
         component: CreaturesComponent,
-        title: 'Creatures page'
+        title: 'Creatures of Ant Aunt Gamer'
     },
     {
         path: 'creatures/:id',
         component: CreatureLoreComponent,
-        title: 'Creature details'
+        title: CustomCreatureTitleResolver
     },
     {
         path: 'locations',
         component: LocationsComponent,
-        title: 'Locations page'
+        title: 'Locations of Ant Aunt Gamer'
     },
     {
         path: 'items',
         component: ItemsComponent,
-        title: 'Items page'
+        title: 'Items of Ant Aunt Gamer'
     },
     {
         path: 'about',
         component: AboutComponent,
-        title: 'About page'
+        title: 'About Ant Aunt Gaming'
     }
   ];
+  NgModule({
+    imports: [RouterModule.forRoot(routeConfig)],
+    exports: [RouterModule]
+  })
   
   export default routeConfig;
