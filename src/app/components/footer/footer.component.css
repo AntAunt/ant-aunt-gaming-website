@@ -24,3 +24,9 @@ a {
     color: white;
 }
 
+@media (max-width: 1000px) {
+    .footer-container {
+        height: 10rem;
+    }
+}
+

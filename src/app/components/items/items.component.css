@@ -7,3 +7,9 @@
 .under-construction {
     text-align: center;
 }
+
+@media (max-width: 1000px) {
+    .temp-asset {
+        max-width: 100%;
+    }
+}

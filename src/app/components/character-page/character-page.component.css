@@ -27,3 +27,9 @@ h1 {
     background-color: #FFFFFF20;
     padding: 0.5rem;
 }
+
+@media (max-width: 1000px) {
+    .character-image {
+        max-width: 100%;
+    }
+}

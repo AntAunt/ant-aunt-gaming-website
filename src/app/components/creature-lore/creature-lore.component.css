@@ -34,3 +34,9 @@ h1 {
     text-align: center;
     background-color: #FFFFFF20;
 }
+
+@media (max-width: 1000px) {
+    .creature-image {
+        max-width: 100%;
+    }
+}
