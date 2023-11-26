@@ -10,16 +10,23 @@ import { AboutComponent } from './components/about/about.component';
 import { BlogComponent } from './components/blog/blog.component';
 import { CreatureService } from './creature.service';
 import { BlogService } from './blog.service';
+import { CharacterPageComponent } from './components/character-page/character-page.component';
+import { CharacterService } from './character.service';
 
 export const customBlogTitleResolver: ResolveFn<string> = 
     (route: ActivatedRouteSnapshot) => {
-    return inject(BlogService).getBlogById( + route.paramMap.get('id')!)?.title ?? 'unknown blog';
+    return inject(BlogService).getBlogById( + route.paramMap.get('id')!)?.title ?? 'Unknown Blog';
 };
 
 export const CustomCreatureTitleResolver: ResolveFn<string> = 
     (route: ActivatedRouteSnapshot) => {
     const creature = inject(CreatureService).getCreatureById(route.paramMap.get('id')!);
-    return creature ? creature.number + " - " + creature.name : 'Unknown creature';
+    return creature ? creature.number + " - " + creature.name : 'Unknown Creature';
+};
+
+export const customCharacterTitleResolver: ResolveFn<string> = 
+    (route: ActivatedRouteSnapshot) => {
+    return inject(CharacterService).getCharacterByName(route.paramMap.get('id')!)?.name ?? 'Unknown Character';
 };
 
 const routeConfig: Routes = [
@@ -37,6 +44,11 @@ const routeConfig: Routes = [
         path: 'characters',
         component: CharactersComponent,
         title: 'Characters of Ant Aunt Gamer'
+    },
+    {
+        path: 'characters/:id',
+        component: CharacterPageComponent,
+        title: customCharacterTitleResolver
     },
     {
         path: 'creatures',

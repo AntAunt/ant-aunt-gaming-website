@@ -1,8 +1,8 @@
-import data from '../assets/creatures.json';
-
 export interface Character {
     id: number;
     name: string;
-    imageLink: string;
+    thumbnailLink: string;
     isLocked: boolean;
+    imageLink: string;
+    summaryHtmlLink: string;
 }

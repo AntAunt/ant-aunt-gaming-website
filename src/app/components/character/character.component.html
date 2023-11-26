@@ -1,11 +1,18 @@
-<section class="character">
-    <img class="character-image" [src]="character.imageLink" alt="Thumbnail of {{character.name}}">
-    <div class="character-name">
-        <div *ngIf="character.isLocked">
-            <p>??????</p>
-        </div>
-        <ng-template #elseBlock>
-            <p>{{ character.name }}</p>
-        </ng-template>
-    </div>
-</section>
+<div *ngIf="character.isLocked; else elseBlock">
+    <section class="character">
+        <img class="character-image" [src]="character.thumbnailLink" alt="Thumbnail of an unknown silhoette">
+        <div class="character-name">
+                <p>??????</p>
+        </div>    
+    </section>
+</div>
+<ng-template #elseBlock>
+        <a class="character-page-link" [routerLink]="['/characters', character.name]">
+            <section class="character">
+                <img class="character-image" [src]="character.thumbnailLink" alt="Thumbnail of {{character.name}}">
+                <div class="character-name">
+                    <p>{{ character.name }}</p>  
+                </div>        
+            </section>
+        </a> 
+</ng-template>

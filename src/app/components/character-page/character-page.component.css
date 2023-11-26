@@ -3,14 +3,14 @@ h1 {
     margin-top: 0px
 }
 
-.creature-log {
+.character-page {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.creature-content {
+.character-content {
     max-width: 80%;
     display: flex;
     flex-direction: column;
@@ -18,19 +18,12 @@ h1 {
     align-items: center;
 }
 
-.creature-image {
-    max-width: 30rem;
+.character-image {
+    max-width: 50rem;
     height: auto;
 }
 
-.types {
-    display: flex;
-    flex-direction: row;
-    list-style: none;
-}
-
-.creature-description {
-    padding: 0.5rem;
-    text-align: center;
+.character-summary {
     background-color: #FFFFFF20;
+    padding: 0.5rem;
 }

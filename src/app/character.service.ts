@@ -18,4 +18,8 @@ export class CharacterService {
         return this.characterArray.find(character => character.id === id)
     }
 
+    getCharacterByName(name: string) : Character | undefined {
+        return this.characterArray.find(character => character.name === name)
+    }
+
 }

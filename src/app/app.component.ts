@@ -10,6 +10,9 @@ import { FooterComponent } from './components/footer/footer.component';
 import { CreaturesComponent } from './components/creatures/creatures.component';
 import { CreatureLoreComponent } from './components/creature-lore/creature-lore.component';
 import { BlogComponent } from './components/blog/blog.component';
+import { CharacterPageComponent } from './components/character-page/character-page.component';
+import { CharacterComponent } from './components/character/character.component';
+import { CharactersComponent } from './components/characters/characters.component';
 
 @Component({
   selector: 'app-root',
@@ -20,6 +23,8 @@ import { BlogComponent } from './components/blog/blog.component';
     HttpClientModule,
     NewsComponent,
     BlogComponent,
+    CharactersComponent,
+    CharacterPageComponent,
     CreaturesComponent,
     CreatureLoreComponent,
     BannerComponent,

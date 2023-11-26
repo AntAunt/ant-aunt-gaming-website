@@ -1,0 +1,7 @@
+<div class="character-page">
+    <h1>{{character?.name}}</h1>
+    <div class="character-content">
+        <img class="character-image" [src]="character?.imageLink" alt="Drawing of {{character?.name}}">
+        <div class="character-summary" [innerHtml]="summaryHtml"></div>
+    </div>
+</div>
