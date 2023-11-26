@@ -15,3 +15,17 @@
 figcaption {
     text-align: center;
 }
+
+@media (max-width: 1000px) {
+    .about-content{
+        flex-direction: column;
+    }
+
+    img{
+        max-width: 100%;
+    }
+
+    .about-me-summary {
+        padding-bottom: 0%;
+    }
+}
