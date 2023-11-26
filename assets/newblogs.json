@@ -1,20 +1,8 @@
 [
     {
         "id": 1,
-        "title": "My first blog :)",
-        "date": "16-11-2023",
-        "contentLink": "./assets/newsblogs/my-first-blog.html"
-    },
-    {
-        "id": 2,
-        "title": "ARGH",
-        "date": "16-11-2023",
-        "contentLink": "./assets/newsblogs/my-second-blog.html"
-    },
-    {
-        "id": 3,
-        "title": "Long Blog Test",
-        "date": "17-11-2023",
-        "contentLink": "./assets/newsblogs/long-post.html"
+        "title": "First Blog",
+        "date": "26-11-2023",
+        "contentLink": "./assets/newsblogs/26-11-2023.html"
     }
 ]

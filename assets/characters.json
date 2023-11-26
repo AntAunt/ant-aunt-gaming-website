@@ -2,307 +2,309 @@
     {
         "id": 9,
         "name": "Penelope",
-        "imageLink": "./assets/CharacterThumbnails/Penelope.png",
-        "isLocked": true
+        "thumbnailLink": "./assets/CharacterThumbnails/Penelope.png",
+        "isLocked": false,
+        "imageLink": "./assets/CharacterImages/Penelope.png",
+        "summaryHtmlLink": "./assets/CharacterSummary/Penelope.html"
     },
     {
         "id": 8,
         "name": "Amanda",
-        "imageLink": "./assets/CharacterThumbnails/Amanda.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Amanda.png",
         "isLocked": true
     },
     {
         "id": 10,
         "name": "Neal",
-        "imageLink": "./assets/CharacterThumbnails/Neal.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Neal.png",
         "isLocked": true
     },
     {
         "id": 11,
         "name": "Arbie",
-        "imageLink": "./assets/CharacterThumbnails/Arbie.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Arbie.png",
         "isLocked": true
     },
     {
         "id": 22,
         "name": "Cade",
-        "imageLink": "./assets/CharacterThumbnails/Cade.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Cade.png",
         "isLocked": true
     },
     {
         "id": 23,
         "name": "Beatrix",
-        "imageLink": "./assets/CharacterThumbnails/Beatrix.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Beatrix.png",
         "isLocked": true
     },
     {
         "id": 18,
         "name": "Ronnie",
-        "imageLink": "./assets/CharacterThumbnails/Ronnie.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Ronnie.png",
         "isLocked": true
     },
     {
         "id": 20,
         "name": "Erika",
-        "imageLink": "./assets/CharacterThumbnails/Erika.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Erika.png",
         "isLocked": true
     },
     {
         "id": 32,
         "name": "Sky",
-        "imageLink": "./assets/CharacterThumbnails/Sky.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Sky.png",
         "isLocked": true
     },
     {
         "id": 27,
         "name": "Melody",
-        "imageLink": "./assets/CharacterThumbnails/Melody.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Melody.png",
         "isLocked": true
     },
     {
         "id": 28,
         "name": "Scarlet",
-        "imageLink": "./assets/CharacterThumbnails/Scarlet.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Scarlet.png",
         "isLocked": true
     },
     {
         "id": 31,
         "name": "Stella",
-        "imageLink": "./assets/CharacterThumbnails/Stella.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Stella.png",
         "isLocked": true
     },
     {
         "id": 13,
         "name": "Howard",
-        "imageLink": "./assets/CharacterThumbnails/Howard.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Howard.png",
         "isLocked": true
     },
     {
         "id": 30,
         "name": "Cherry",
-        "imageLink": "./assets/CharacterThumbnails/Cherry.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Cherry.png",
         "isLocked": true
     },
     {
         "id": 5,
         "name": "Phillip",
-        "imageLink": "./assets/CharacterThumbnails/Phillip.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Phillip.png",
         "isLocked": true
     },
     {
         "id": 33,
         "name": "Tristen",
-        "imageLink": "./assets/CharacterThumbnails/Tristen.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Tristen.png",
         "isLocked": true
     },
     {
         "id": 14,
         "name": "Evelyn",
-        "imageLink": "./assets/CharacterThumbnails/Evelyn.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Evelyn.png",
         "isLocked": true
     },
     {
         "id": 6,
         "name": "Bonnie",
-        "imageLink": "./assets/CharacterThumbnails/Bonnie.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Bonnie.png",
         "isLocked": true
     },
     {
         "id": 1,
         "name": "Raymond",
-        "imageLink": "./assets/CharacterThumbnails/Raymond.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Raymond.png",
         "isLocked": true
     },
     {
         "id": 4,
         "name": "Clyde",
-        "imageLink": "./assets/CharacterThumbnails/Clyde.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Clyde.png",
         "isLocked": true
     },
     {
         "id": 26,
         "name": "Vanessa",
-        "imageLink": "./assets/CharacterThumbnails/Vanessa.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Vanessa.png",
         "isLocked": true
     },
     {
         "id": 2,
         "name": "Alvin",
-        "imageLink": "./assets/CharacterThumbnails/Alvin.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Alvin.png",
         "isLocked": true
     },
     {
         "id": 25,
         "name": "Audrey",
-        "imageLink": "./assets/CharacterThumbnails/Audrey.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Audrey.png",
         "isLocked": true
     },
     {
         "id": 7,
         "name": "Philbert",
-        "imageLink": "./assets/CharacterThumbnails/Philbert.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Philbert.png",
         "isLocked": true
     },
     {
         "id": 12,
         "name": "Rob",
-        "imageLink": "./assets/CharacterThumbnails/Rob.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Rob.png",
         "isLocked": true
     },
     {
         "id": 24,
         "name": "Jenny",
-        "imageLink": "./assets/CharacterThumbnails/Jenny.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Jenny.png",
         "isLocked": true
     },
     {
         "id": 17,
         "name": "Sebastian",
-        "imageLink": "./assets/CharacterThumbnails/Sebastian.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Sebastian.png",
         "isLocked": true
     },
     {
         "id": 15,
         "name": "Abigail",
-        "imageLink": "./assets/CharacterThumbnails/Abigail.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Abigail.png",
         "isLocked": true
     },
     {
         "id": 21,
         "name": "Trace",
-        "imageLink": "./assets/CharacterThumbnails/Trace.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Trace.png",
         "isLocked": true
     },
     {
         "id": 29,
         "name": "Larry",
-        "imageLink": "./assets/CharacterThumbnails/Larry.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Larry.png",
         "isLocked": true
     },
     {
         "id": 3,
         "name": "Gregory",
-        "imageLink": "./assets/CharacterThumbnails/Gregory.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Gregory.png",
         "isLocked": true
     },
     {
         "id": 16,
         "name": "Guy",
-        "imageLink": "./assets/CharacterThumbnails/Guy.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Guy.png",
         "isLocked": true
     },
     {
         "id": 19,
         "name": "Dahlia",
-        "imageLink": "./assets/CharacterThumbnails/Dahlia.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Dahlia.png",
         "isLocked": true
     },
     {
         "id": 34,
         "name": "AltRaymond",
-        "imageLink": "./assets/CharacterThumbnails/Raymond2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Raymond2.png",
         "isLocked": true
     },
     {
         "id": 35,
         "name": "AltGregory",
-        "imageLink": "./assets/CharacterThumbnails/Gregory2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Gregory2.png",
         "isLocked": true
     },
     {
         "id": 36,
         "name": "AltClyde",
-        "imageLink": "./assets/CharacterThumbnails/Clyde2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Clyde2.png",
         "isLocked": true
     },
     {
         "id": 37,
         "name": "AltBonnie",
-        "imageLink": "./assets/CharacterThumbnails/Bonnie2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Bonnie2.png",
         "isLocked": true
     },
     {
         "id": 38,
         "name": "AltAmanda",
-        "imageLink": "./assets/CharacterThumbnails/Amanda2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Amanda2.png",
         "isLocked": true
     },
     {
         "id": 39,
         "name": "AltPenelope",
-        "imageLink": "./assets/CharacterThumbnails/Penelope2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Penelope2.png",
         "isLocked": true
     },
     {
         "id": 40,
         "name": "AltNeal",
-        "imageLink": "./assets/CharacterThumbnails/Neal2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Neal2.png",
         "isLocked": true
     },
     {
         "id": 41,
         "name": "AltArbie",
-        "imageLink": "./assets/CharacterThumbnails/Arbie2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Arbie2.png",
         "isLocked": true
     },
     {
         "id": 42,
         "name": "AltDahlia",
-        "imageLink": "./assets/CharacterThumbnails/Dahlia2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Dahlia2.png",
         "isLocked": true
     },
     {
         "id": 43,
         "name": "AltCade",
-        "imageLink": "./assets/CharacterThumbnails/Cade2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Cade2.png",
         "isLocked": true
     },
     {
         "id": 44,
         "name": "AltBeatrix",
-        "imageLink": "./assets/CharacterThumbnails/Beatrix2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Beatrix2.png",
         "isLocked": true
     },
     {
         "id": 45,
         "name": "AltHoward",
-        "imageLink": "./assets/CharacterThumbnails/Howard2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Howard2.png",
         "isLocked": true
     },
     {
         "id": 46,
         "name": "AltAbigail",
-        "imageLink": "./assets/CharacterThumbnails/Abigail2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Abigail2.png",
         "isLocked": true
     },
     {
         "id": 47,
         "name": "AltGuy",
-        "imageLink": "./assets/CharacterThumbnails/Guy2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Guy2.png",
         "isLocked": true
     },
     {
         "id": 48,
         "name": "AltEvelyn",
-        "imageLink": "./assets/CharacterThumbnails/Evelyn2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Evelyn2.png",
         "isLocked": true
     },
     {
         "id": 49,
         "name": "AltRob",
-        "imageLink": "./assets/CharacterThumbnails/Rob2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Rob2.png",
         "isLocked": true
     },
     {
         "id": 50,
         "name": "AltRonnie",
-        "imageLink": "./assets/CharacterThumbnails/Ronnie2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Ronnie2.png",
         "isLocked": true
     },
     {
         "id": 50,
         "name": "AltSebastian",
-        "imageLink": "./assets/CharacterThumbnails/Sebastian2.png",
+        "thumbnailLink": "./assets/CharacterThumbnails/Sebastian2.png",
         "isLocked": true
     }
 
