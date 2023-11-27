@@ -17,7 +17,9 @@
         "id": 10,
         "name": "Neal",
         "thumbnailLink": "./assets/CharacterThumbnails/Neal.png",
-        "isLocked": true
+        "isLocked": false,
+        "imageLink": "./assets/CharacterImages/Neal.png",
+        "summaryHtmlLink": "./assets/CharacterSummary/Neal.html"
     },
     {
         "id": 11,
