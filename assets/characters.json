@@ -37,7 +37,9 @@
         "id": 23,
         "name": "Beatrix",
         "thumbnailLink": "./assets/CharacterThumbnails/Beatrix.png",
-        "isLocked": true
+        "isLocked": false,
+        "imageLink": "./assets/CharacterImages/Beatrix.png",
+        "summaryHtmlLink": "./assets/CharacterSummary/Beatrix.html"
     },
     {
         "id": 18,
