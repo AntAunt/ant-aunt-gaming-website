@@ -1534,7 +1534,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P300",
-    "name": null,
+    "name": "Opposoot",
     "type": [
       "Fire"
     ],
@@ -1552,7 +1552,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P301",
-    "name": null,
+    "name": "Posmoke",
     "type": [
       "Psychic",
       "Fire"
@@ -1571,7 +1571,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P302",
-    "name": null,
+    "name": "Ashsupial",
     "type": [
       "Psychic",
       "Fire",
@@ -1661,7 +1661,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P303",
-    "name": null,
+    "name": "Gobigob",
     "type": [
       "Water"
     ],
@@ -1679,7 +1679,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P304",
-    "name": null,
+    "name": "Bibgob",
     "type": [
       "Water",
       "Poison"
@@ -1698,7 +1698,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P305",
-    "name": null,
+    "name": "Gourmegob",
     "type": [
       "Water",
       "Poison",
@@ -1775,7 +1775,7 @@
     "yNum": "Y001",
     "oNum": "",
     "pNum": "P306",
-    "name": null,
+    "name": "Palmonut",
     "type": [
       "Grass"
     ],
@@ -1793,7 +1793,7 @@
     "yNum": "Y002",
     "oNum": "",
     "pNum": "P307",
-    "name": null,
+    "name": "Cocopalm",
     "type": [
       "Grass",
       "Rock"
@@ -1812,7 +1812,7 @@
     "yNum": "Y003",
     "oNum": "",
     "pNum": "P308",
-    "name": null,
+    "name": "Cocobrawl",
     "type": [
       "Grass",
       "Rock",
