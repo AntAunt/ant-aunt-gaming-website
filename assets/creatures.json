@@ -33,7 +33,7 @@
     "evolvesInto": [
       "0012"
     ],
-    "family": "0011",
+    "family": "0010",
     "rank": "Silver",
     "description": "As the shell grows small, the fletchling becomes more confident. It hunt smaller critters, threatening them with its claws.",
     "imageLink": "./assets/CreatureImages/0011.png"
@@ -53,7 +53,7 @@
       "Fighting"
     ],
     "evolvesInto": [],
-    "family": "0011",
+    "family": "0010",
     "rank": "Gold",
     "description": "Mastering flight, surface and water, it fights everything and anything that comes within its territory. Its punch is strong enough to knockout an Indian elephant.",
     "imageLink": "./assets/CreatureImages/0012.png"
@@ -1350,5 +1350,667 @@
     "rank": "Gold",
     "description": "It patrols the skies above the forest, scanning for any disturbances. If it sense a threat to the environment, it will attack the offender.",
     "imageLink": "./assets/CreatureImages/1520.png"
+  },
+  {
+    "number": "0027",
+    "rNum": "R027",
+    "gNum": "G318",
+    "bNum": "B324",
+    "yNum": "Y327",
+    "oNum": "",
+    "pNum": "P309",
+    "name": null,
+    "type": [
+      "Fairy"
+    ],
+    "evolvesInto": ["0028"],
+    "family": "0027",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0027.png"
+  },
+  {
+    "number": "0028",
+    "rNum": "R028",
+    "gNum": "G319",
+    "bNum": "B325",
+    "yNum": "Y328",
+    "oNum": "",
+    "pNum": "P310",
+    "name": null,
+    "type": [
+      "Fairy",
+      "Flying"
+    ],
+    "evolvesInto": ["0029"],
+    "family": "0027",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0028.png"
+  },
+  {
+    
+    "number": "0029",
+    "rNum": "R029",
+    "gNum": "G320",
+    "bNum": "B326",
+    "yNum": "Y329",
+    "oNum": "",
+    "pNum": "P311",
+    "name": null,
+    "type": [
+      "Fairy",
+      "Flying",
+      "Fighting"
+    ],
+    "evolvesInto": [],
+    "family": "0027",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0029.png"
+  },
+  {
+    "number": "0207",
+    "rNum": "R207",
+    "gNum": "G310",
+    "bNum": "",
+    "yNum": "Y340",
+    "oNum": "",
+    "pNum": "P230",
+    "name": null,
+    "type": [
+      "Water",
+      "Radiation"
+    ],
+    "evolvesInto": ["0208"],
+    "family": "0207",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0207.png"
+  },
+  {
+    "number": "0208",
+    "rNum": "R208",
+    "gNum": "G311",
+    "bNum": "",
+    "yNum": "Y341",
+    "oNum": "",
+    "pNum": "P231",
+    "name": null,
+    "type": [
+      "Water",
+      "Radiation",
+      "Steel"
+    ],
+    "evolvesInto": ["0209"],
+    "family": "0207",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0208.png"
+  },
+  {
+    "number": "0209",
+    "rNum": "R209",
+    "gNum": "G312",
+    "bNum": "",
+    "yNum": "Y342",
+    "oNum": "",
+    "pNum": "P232",
+    "name": null,
+    "type": [
+      "Water",
+      "Radiation",
+      "Steel"
+    ],
+    "evolvesInto": [],
+    "family": "0207",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0209.png"
+  },
+  {
+    "number": "0290",
+    "rNum": "R290",
+    "gNum": "G085",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P206",
+    "name": null,
+    "type": [
+      "Flying",
+      "Wildcard",
+      "Water"
+    ],
+    "evolvesInto": [],
+    "family": "0433",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0290.png"
+  },
+  {
+    "number": "0361",
+    "rNum": "R361",
+    "gNum": "G355",
+    "bNum": "B327",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P355",
+    "name": null,
+    "type": [
+      "Normal"
+    ],
+    "evolvesInto": [],
+    "family": "0361",
+    "rank": "Diamond",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0361.png"
+  },
+  {
+    "number": "0362",
+    "rNum": "R362",
+    "gNum": "G362",
+    "bNum": "B328",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P359",
+    "name": null,
+    "type": [
+      "Dark",
+      "Fighting",
+      "Ground"
+    ],
+    "evolvesInto": [],
+    "family": "0362",
+    "rank": "Diamond",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0362.png"
+  },
+  {
+    "number": "0366",
+    "rNum": "",
+    "gNum": "G004",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P300",
+    "name": null,
+    "type": [
+      "Fire"
+    ],
+    "evolvesInto": ["0367"],
+    "family": "0366",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0366.png"
+  },
+  {
+    "number": "0367",
+    "rNum": "",
+    "gNum": "G005",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P301",
+    "name": null,
+    "type": [
+      "Psychic",
+      "Fire"
+    ],
+    "evolvesInto": ["0368"],
+    "family": "0366",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0367.png"
+  },
+  {
+    "number": "0368",
+    "rNum": "",
+    "gNum": "G006",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P302",
+    "name": null,
+    "type": [
+      "Psychic",
+      "Fire",
+      "Ghost"
+    ],
+    "evolvesInto": [],
+    "family": "0366",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0368.png"
+  },
+  {
+    "number": "0433",
+    "rNum": "",
+    "gNum": "G083",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P204",
+    "name": null,
+    "type": [
+      "Flying"
+    ],
+    "evolvesInto": ["0434"],
+    "family": "0433",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0433.png"
+  },
+  {
+    "number": "0434",
+    "rNum": "",
+    "gNum": "G084",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P205",
+    "name": null,
+    "type": [],
+    "evolvesInto": ["0290"],
+    "family": "0433",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0434.png"
+  },
+  {
+    "number": "0635",
+    "rNum": "",
+    "gNum": "G300",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P362",
+    "name": null,
+    "type": [
+      "Cosmic"
+    ],
+    "evolvesInto": [],
+    "family": "0635",
+    "rank": "Diamond",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0635.png"
+  },
+  {
+    "number": "0640",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P356",
+    "name": null,
+    "type": [
+      "Flying"
+    ],
+    "evolvesInto": [],
+    "family": "0640",
+    "rank": "Diamond",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0640.png"
+  },
+  {
+    "number": "0641",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B001",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P303",
+    "name": null,
+    "type": [
+      "Water"
+    ],
+    "evolvesInto": ["0642"],
+    "family": "0641",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0641.png"
+  },
+  {
+    "number": "0642",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B002",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P304",
+    "name": null,
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "evolvesInto": ["0643"],
+    "family": "0641",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0642.png"
+  },
+  {
+    "number": "0643",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B003",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P305",
+    "name": null,
+    "type": [
+      "Water",
+      "Poison",
+      "Ghost"
+    ],
+    "evolvesInto": [],
+    "family": "0641",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0643.png"
+  },
+  {
+    "number": "0658",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B018",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P297",
+    "name": null,
+    "type": [
+      "Electric"
+    ],
+    "evolvesInto": ["0659"],
+    "family": "0658",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0658.png"
+  },
+  {
+    "number": "0659",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B019",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P298",
+    "name": null,
+    "type": [
+      "Electric",
+      "Fighting"
+    ],
+    "evolvesInto": ["0660"],
+    "family": "0658",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0659.png"
+  },
+  {
+    "number": "0660",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "B020",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P299",
+    "name": null,
+    "type": [
+      "Electric",
+      "Fighting",
+      "Steel"
+    ],
+    "evolvesInto": [],
+    "family": "0658",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0660.png"
+  },
+  {
+    "number": "0869",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y001",
+    "oNum": "",
+    "pNum": "P306",
+    "name": null,
+    "type": [
+      "Grass"
+    ],
+    "evolvesInto": ["0870"],
+    "family": "0869",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0869.png"
+  },
+  {
+    "number": "0870",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y002",
+    "oNum": "",
+    "pNum": "P307",
+    "name": null,
+    "type": [
+      "Grass",
+      "Rock"
+    ],
+    "evolvesInto": ["0871"],
+    "family": "0869",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0870.png"
+  },
+  {
+    "number": "0871",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y003",
+    "oNum": "",
+    "pNum": "P308",
+    "name": null,
+    "type": [
+      "Grass",
+      "Rock",
+      "Fighting"
+    ],
+    "evolvesInto": [],
+    "family": "0869",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0871.png"
+  },
+  {
+    "number": "0895",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y040",
+    "oNum": "",
+    "pNum": "P312",
+    "name": null,
+    "type": [
+      "Ice"
+    ],
+    "evolvesInto": ["0896"],
+    "family": "0895",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0895.png"
+  },
+  {
+    "number": "0896",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y041",
+    "oNum": "",
+    "pNum": "P313",
+    "name": null,
+    "type": [
+      "Ice",
+      "Ground"
+    ],
+    "evolvesInto": ["0897"],
+    "family": "0895",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0896.png"
+  },
+  {
+    "number": "0897",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y042",
+    "oNum": "",
+    "pNum": "P314",
+    "name": null,
+    "type": [
+      "Ice",
+      "Ground",
+      "Steel"
+    ],
+    "evolvesInto": [],
+    "family": "0895",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0897.png"
+  },
+  {
+    "number": "0928",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y095",
+    "oNum": "",
+    "pNum": "P283",
+    "name": null,
+    "type": [],
+    "evolvesInto": ["0929"],
+    "family": "0928",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0928.png"
+  },
+  {
+    "number": "0929",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y096",
+    "oNum": "",
+    "pNum": "P284",
+    "name": null,
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "evolvesInto": ["0930"],
+    "family": "0928",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0929.png"
+  },
+  {
+    "number": "0930",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y097",
+    "oNum": "",
+    "pNum": "P285",
+    "name": null,
+    "type": [
+      "Fire",
+      "Flying",
+      "Cosmic"
+    ],
+    "evolvesInto": [],
+    "family": "0928",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/0930.png"
+  },
+  {
+    "number": "1000",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "Y362",
+    "oNum": "",
+    "pNum": "P360",
+    "name": "Forestnight",
+    "type": [
+      "Dark",
+      "Fighting",
+      "Ground"
+    ],
+    "evolvesInto": [],
+    "family": "1000",
+    "rank": "Diamond",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/1000.png"
+  },
+  {
+    "number": "1389",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P011",
+    "name": null,
+    "type": [
+      "Ice"
+    ],
+    "evolvesInto": ["1390"],
+    "family": "1389",
+    "rank": "Bronze",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/1389.png"
+  },
+  {
+    "number": "1390",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P012",
+    "name": null,
+    "type": [
+      "Ice",
+      "Water"
+    ],
+    "evolvesInto": ["1391"],
+    "family": "1389",
+    "rank": "Silver",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/1390.png"
+  },
+  {
+    "number": "1391",
+    "rNum": "",
+    "gNum": "",
+    "bNum": "",
+    "yNum": "",
+    "oNum": "",
+    "pNum": "P013",
+    "name": null,
+    "type": [
+      "Ice",
+      "Water",
+      "Spiny"
+    ],
+    "evolvesInto": [],
+    "family": "1389",
+    "rank": "Gold",
+    "description": null,
+    "imageLink": "./assets/CreatureImages/1391.png"
   }
 ]
