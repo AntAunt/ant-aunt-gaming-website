@@ -1,5 +1,23 @@
 <div class="creature-log">
-    <h1>{{creature?.number}} - {{creature?.name}}</h1>
+    <div class="creature-log-header">
+        <div class="creature-previous">
+            <div class="creature-previous-content">
+                <div *ngIf="creaturePrevious">
+                    <p>&#171; Previous</p>
+                    <app-creature [creature]="creaturePrevious"/>
+                </div>
+            </div>
+        </div>
+        <h1 class="creature-title">{{creature?.number}} - {{creature?.name}}</h1>
+        <div class="creature-next">
+            <div class="creature-next-content">
+                <div *ngIf="creatureNext">
+                    <p>Next &#187;</p>
+                    <app-creature [creature]="creatureNext"/>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="creature-content">
         <img class="creature-image" [src]="creature?.imageLink" alt="Drawing of {{creature?.name}}">
         <ul class="types">
@@ -8,7 +26,45 @@
             </li>
         </ul>
         <div  class="creature-description">
-        <p><em>"{{ creature?.description }}"</em></p>
+            <p><em>"{{ creature?.description }}"</em></p>
+        </div>
+    </div>
+    <div class="creature-family-nav">
+        <div class="creature-previous-evo">
+            <div class="creature-previous-evo-content">
+                <div *ngIf="creaturePreviousEvo">
+                    <p>Evolves from</p>
+                    <app-creature [creature]="creaturePreviousEvo"/>
+                </div>
+            </div>
+        </div>
+        <div *ngIf="creatureNextEvo !== undefined && creatureNextEvo['length'] > 0">
+            <div class="creature-next-evo">
+                <div class="creature-previous-evo-content">
+                    <p>Evolves into</p>
+                    <div class="next-evo-branches">
+                        <app-creature 
+                            *ngFor="let creature of creatureNextEvo"
+                            [creature]="creature">
+                        </app-creature>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="creature-lore-footer">
+        <div *ngIf="creatureRelated !== undefined && creatureRelated['length'] > 0">
+            <div class="creature-related">
+                <div class="creature-related-content">
+                    <p>Related</p>
+                    <div class="next-evo-branches">
+                        <app-creature 
+                            *ngFor="let creature of creatureRelated"
+                            [creature]="creature">
+                        </app-creature>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

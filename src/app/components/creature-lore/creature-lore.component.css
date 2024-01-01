@@ -6,8 +6,117 @@ h1 {
 .creature-log {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
+    min-height: 110vh;
+}
+
+::ng-deep app-creature .creature-image {
+    max-width: 5rem;
+    align-items: center;
+}
+
+::ng-deep app-creature .creature {
+    max-width: 5.5rem;
+}
+
+.creature-previous {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.creature-previous-content {
+    display: flex;
+    text-align: center;
+}
+
+.creature-next {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    flex: 1;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.creature-next-content {
+    display: flex;
+    text-align: center;
+}
+
+.creature-log-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%
+}
+
+.creature-title {
+    text-align: center;
+    flex: 2;
+}
+
+.creature-family-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%
+}
+
+.creature-previous-evo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.creature-previous-evo-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.creature-next-evo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.next-evo-branches {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+
+.creature-next-evo-content {
+    display: flex;
+    text-align: center;
+}
+
+.creature-lore-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.creature-related {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-align: center;
+}
+
+.creature-related-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 .creature-content {
@@ -19,7 +128,7 @@ h1 {
 }
 
 .creature-image {
-    max-width: 30rem;
+    max-width: 25rem;
     height: auto;
 }
 
@@ -33,6 +142,10 @@ h1 {
     padding: 0.5rem;
     text-align: center;
     background-color: #FFFFFF20;
+}
+
+ul.types {
+    padding-left: 0rem;
 }
 
 @media (max-width: 1000px) {

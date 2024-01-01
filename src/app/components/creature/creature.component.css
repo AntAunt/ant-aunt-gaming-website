@@ -9,8 +9,8 @@
 }
 
 .creature-image {
-    border-style: inset;
-    border: 0.5rem solid #CCC;
+    outline: 0.5rem #CCC;
+    outline-style: inset;
     width: 10rem;
     height: auto;
     justify-content: center;
@@ -20,14 +20,12 @@
     justify-content: center;
     text-align: center;
     line-height: 1rem;
-    padding-left: 0.5rem;
 }
 
 .creature-name{
     justify-content: center;
     text-align: center;
     line-height: 1px;
-    padding-left: 0.5rem;
 }
 
 .creature-page-link {

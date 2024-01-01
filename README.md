@@ -1,3 +1,11 @@
+# Shutouts
+
+Player Leo
+Wrote a python script for sorting creatures
+
+RisingThumb
+Rewrote my CreatureService class
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.

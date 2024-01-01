@@ -17,7 +17,6 @@ export class NewspostComponent implements OnChanges {
   @Input() newspost!: Newsblog;
 
   externalHtml : any;
-  show : boolean = true;
 
   constructor(
     private http: HttpClient,
