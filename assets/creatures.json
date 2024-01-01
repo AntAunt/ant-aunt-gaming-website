@@ -1202,7 +1202,9 @@
     "type": [
       "Steel"
     ],
-    "evolvesInto": [],
+    "evolvesInto": [
+      "1501"
+    ],
     "family": "1500",
     "rank": "Bronze",
     "description": "This creature scuttles around scrapyards looking for bolts to eat. It can use its claws to strike with surgical percision.",
@@ -1222,9 +1224,7 @@
       "Plasma",
       "Fighting"
     ],
-    "evolvesInto": [
-      "1501"
-    ],
+    "evolvesInto": [],
     "family": "1500",
     "rank": "Gold",
     "description": "Crabrage spends most of its time actively looking for a fight. It will go after any Indian elephant that looks at it the wrong way.",
