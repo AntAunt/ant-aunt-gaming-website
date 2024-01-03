@@ -15,7 +15,7 @@ export class CreatureService {
             if (!creature.name) creature.name = "Unknown";
             if (!creature.description) creature.description = "Research pending";
             return creature;
-        })
+        }).sort((n1, n2) => n1.number.localeCompare(n2.number));
     }
 
     getCreatureById(id: string) : Creature {
