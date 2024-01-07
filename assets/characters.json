@@ -25,6 +25,7 @@
         "id": 11,
         "name": "Arbie",
         "thumbnailLink": "./assets/CharacterThumbnails/Arbie.png",
+        "imageLink": "./assets/CharacterImages/Arbie.png",
         "isLocked": true
     },
     {
