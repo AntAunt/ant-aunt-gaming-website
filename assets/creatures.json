@@ -1357,14 +1357,14 @@
     "yNum": "Y327",
     "oNum": "",
     "pNum": "P309",
-    "name": null,
+    "name": "Charmbow",
     "type": [
       "Fairy"
     ],
     "evolvesInto": ["0028"],
     "family": "0027",
     "rank": "Bronze",
-    "description": null,
+    "description": "This guy floats lazily to populated cities. It likes to hang around within audible range of cheering and laughter.",
     "imageLink": "./assets/CreatureImages/0027.png"
   },
   {
@@ -1375,7 +1375,7 @@
     "yNum": "Y328",
     "oNum": "",
     "pNum": "P310",
-    "name": null,
+    "name": "Ribbonhart",
     "type": [
       "Fairy",
       "Flying"
@@ -1383,7 +1383,7 @@
     "evolvesInto": ["0029"],
     "family": "0027",
     "rank": "Silver",
-    "description": null,
+    "description": "Ribbonhart can be seen digging through trash is large cities. The sunglasses it wears are presumed to have been acquired through scavenging.",
     "imageLink": "./assets/CreatureImages/0028.png"
   },
   {
@@ -1395,7 +1395,7 @@
     "yNum": "Y329",
     "oNum": "",
     "pNum": "P311",
-    "name": null,
+    "name": "Wraploves",
     "type": [
       "Fairy",
       "Flying",
@@ -1404,7 +1404,7 @@
     "evolvesInto": [],
     "family": "0027",
     "rank": "Gold",
-    "description": null,
+    "description": "This creature is unuasually friendly to people. It likes to hug those it peceives as allies by wrapping around them with its ribbons.",
     "imageLink": "./assets/CreatureImages/0029.png"
   },
   {
