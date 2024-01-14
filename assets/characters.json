@@ -8,31 +8,12 @@
         "summaryHtmlLink": "./assets/CharacterSummary/Penelope.html"
     },
     {
-        "id": 8,
-        "name": "Amanda",
-        "thumbnailLink": "./assets/CharacterThumbnails/Amanda.png",
-        "isLocked": true
-    },
-    {
         "id": 10,
         "name": "Neal",
         "thumbnailLink": "./assets/CharacterThumbnails/Neal.png",
         "isLocked": false,
         "imageLink": "./assets/CharacterImages/Neal.png",
         "summaryHtmlLink": "./assets/CharacterSummary/Neal.html"
-    },
-    {
-        "id": 11,
-        "name": "Arbie",
-        "thumbnailLink": "./assets/CharacterThumbnails/Arbie.png",
-        "imageLink": "./assets/CharacterImages/Arbie.png",
-        "isLocked": true
-    },
-    {
-        "id": 22,
-        "name": "Cade",
-        "thumbnailLink": "./assets/CharacterThumbnails/Cade.png",
-        "isLocked": true
     },
     {
         "id": 23,
@@ -43,16 +24,12 @@
         "summaryHtmlLink": "./assets/CharacterSummary/Beatrix.html"
     },
     {
-        "id": 18,
-        "name": "Ronnie",
-        "thumbnailLink": "./assets/CharacterThumbnails/Ronnie.png",
-        "isLocked": true
-    },
-    {
-        "id": 20,
-        "name": "Erika",
-        "thumbnailLink": "./assets/CharacterThumbnails/Erika.png",
-        "isLocked": true
+        "id": 11,
+        "name": "Arbie",
+        "thumbnailLink": "./assets/CharacterThumbnails/Arbie.png",
+        "imageLink": "./assets/CharacterImages/Arbie.png",
+        "isLocked": false,
+        "summaryHtmlLink": "./assets/CharacterSummary/Arbie.html"
     },
     {
         "id": 32,
@@ -85,30 +62,6 @@
         "isLocked": true
     },
     {
-        "id": 30,
-        "name": "Cherry",
-        "thumbnailLink": "./assets/CharacterThumbnails/Cherry.png",
-        "isLocked": true
-    },
-    {
-        "id": 5,
-        "name": "Phillip",
-        "thumbnailLink": "./assets/CharacterThumbnails/Phillip.png",
-        "isLocked": true
-    },
-    {
-        "id": 33,
-        "name": "Tristen",
-        "thumbnailLink": "./assets/CharacterThumbnails/Tristen.png",
-        "isLocked": true
-    },
-    {
-        "id": 14,
-        "name": "Evelyn",
-        "thumbnailLink": "./assets/CharacterThumbnails/Evelyn.png",
-        "isLocked": true
-    },
-    {
         "id": 6,
         "name": "Bonnie",
         "thumbnailLink": "./assets/CharacterThumbnails/Bonnie.png",
@@ -121,21 +74,21 @@
         "isLocked": true
     },
     {
-        "id": 4,
-        "name": "Clyde",
-        "thumbnailLink": "./assets/CharacterThumbnails/Clyde.png",
-        "isLocked": true
-    },
-    {
-        "id": 26,
-        "name": "Vanessa",
-        "thumbnailLink": "./assets/CharacterThumbnails/Vanessa.png",
+        "id": 14,
+        "name": "Evelyn",
+        "thumbnailLink": "./assets/CharacterThumbnails/Evelyn.png",
         "isLocked": true
     },
     {
         "id": 2,
         "name": "Alvin",
         "thumbnailLink": "./assets/CharacterThumbnails/Alvin.png",
+        "isLocked": true
+    },
+    {
+        "id": 26,
+        "name": "Vanessa",
+        "thumbnailLink": "./assets/CharacterThumbnails/Vanessa.png",
         "isLocked": true
     },
     {
@@ -148,6 +101,30 @@
         "id": 7,
         "name": "Philbert",
         "thumbnailLink": "./assets/CharacterThumbnails/Philbert.png",
+        "isLocked": true
+    },
+    {
+        "id": 8,
+        "name": "Amanda",
+        "thumbnailLink": "./assets/CharacterThumbnails/Amanda.png",
+        "isLocked": true
+    },
+    {
+        "id": 22,
+        "name": "Cade",
+        "thumbnailLink": "./assets/CharacterThumbnails/Cade.png",
+        "isLocked": true
+    },
+    {
+        "id": 18,
+        "name": "Ronnie",
+        "thumbnailLink": "./assets/CharacterThumbnails/Ronnie.png",
+        "isLocked": true
+    },
+    {
+        "id": 20,
+        "name": "Erika",
+        "thumbnailLink": "./assets/CharacterThumbnails/Erika.png",
         "isLocked": true
     },
     {
@@ -175,6 +152,18 @@
         "isLocked": true
     },
     {
+        "id": 5,
+        "name": "Phillip",
+        "thumbnailLink": "./assets/CharacterThumbnails/Phillip.png",
+        "isLocked": true
+    },
+    {
+        "id": 3,
+        "name": "Gregory",
+        "thumbnailLink": "./assets/CharacterThumbnails/Gregory.png",
+        "isLocked": true
+    },
+    {
         "id": 21,
         "name": "Trace",
         "thumbnailLink": "./assets/CharacterThumbnails/Trace.png",
@@ -187,15 +176,21 @@
         "isLocked": true
     },
     {
-        "id": 3,
-        "name": "Gregory",
-        "thumbnailLink": "./assets/CharacterThumbnails/Gregory.png",
-        "isLocked": true
-    },
-    {
         "id": 16,
         "name": "Guy",
         "thumbnailLink": "./assets/CharacterThumbnails/Guy.png",
+        "isLocked": true
+    },
+    {
+        "id": 33,
+        "name": "Tristen",
+        "thumbnailLink": "./assets/CharacterThumbnails/Tristen.png",
+        "isLocked": true
+    },
+    {
+        "id": 4,
+        "name": "Clyde",
+        "thumbnailLink": "./assets/CharacterThumbnails/Clyde.png",
         "isLocked": true
     },
     {
@@ -203,114 +198,5 @@
         "name": "Dahlia",
         "thumbnailLink": "./assets/CharacterThumbnails/Dahlia.png",
         "isLocked": true
-    },
-    {
-        "id": 34,
-        "name": "AltRaymond",
-        "thumbnailLink": "./assets/CharacterThumbnails/Raymond2.png",
-        "isLocked": true
-    },
-    {
-        "id": 35,
-        "name": "AltGregory",
-        "thumbnailLink": "./assets/CharacterThumbnails/Gregory2.png",
-        "isLocked": true
-    },
-    {
-        "id": 36,
-        "name": "AltClyde",
-        "thumbnailLink": "./assets/CharacterThumbnails/Clyde2.png",
-        "isLocked": true
-    },
-    {
-        "id": 37,
-        "name": "AltBonnie",
-        "thumbnailLink": "./assets/CharacterThumbnails/Bonnie2.png",
-        "isLocked": true
-    },
-    {
-        "id": 38,
-        "name": "AltAmanda",
-        "thumbnailLink": "./assets/CharacterThumbnails/Amanda2.png",
-        "isLocked": true
-    },
-    {
-        "id": 39,
-        "name": "AltPenelope",
-        "thumbnailLink": "./assets/CharacterThumbnails/Penelope2.png",
-        "isLocked": true
-    },
-    {
-        "id": 40,
-        "name": "AltNeal",
-        "thumbnailLink": "./assets/CharacterThumbnails/Neal2.png",
-        "isLocked": true
-    },
-    {
-        "id": 41,
-        "name": "AltArbie",
-        "thumbnailLink": "./assets/CharacterThumbnails/Arbie2.png",
-        "isLocked": true
-    },
-    {
-        "id": 42,
-        "name": "AltDahlia",
-        "thumbnailLink": "./assets/CharacterThumbnails/Dahlia2.png",
-        "isLocked": true
-    },
-    {
-        "id": 43,
-        "name": "AltCade",
-        "thumbnailLink": "./assets/CharacterThumbnails/Cade2.png",
-        "isLocked": true
-    },
-    {
-        "id": 44,
-        "name": "AltBeatrix",
-        "thumbnailLink": "./assets/CharacterThumbnails/Beatrix2.png",
-        "isLocked": true
-    },
-    {
-        "id": 45,
-        "name": "AltHoward",
-        "thumbnailLink": "./assets/CharacterThumbnails/Howard2.png",
-        "isLocked": true
-    },
-    {
-        "id": 46,
-        "name": "AltAbigail",
-        "thumbnailLink": "./assets/CharacterThumbnails/Abigail2.png",
-        "isLocked": true
-    },
-    {
-        "id": 47,
-        "name": "AltGuy",
-        "thumbnailLink": "./assets/CharacterThumbnails/Guy2.png",
-        "isLocked": true
-    },
-    {
-        "id": 48,
-        "name": "AltEvelyn",
-        "thumbnailLink": "./assets/CharacterThumbnails/Evelyn2.png",
-        "isLocked": true
-    },
-    {
-        "id": 49,
-        "name": "AltRob",
-        "thumbnailLink": "./assets/CharacterThumbnails/Rob2.png",
-        "isLocked": true
-    },
-    {
-        "id": 50,
-        "name": "AltRonnie",
-        "thumbnailLink": "./assets/CharacterThumbnails/Ronnie2.png",
-        "isLocked": true
-    },
-    {
-        "id": 50,
-        "name": "AltSebastian",
-        "thumbnailLink": "./assets/CharacterThumbnails/Sebastian2.png",
-        "isLocked": true
     }
-
 ]

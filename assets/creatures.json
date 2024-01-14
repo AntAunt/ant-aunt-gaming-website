@@ -1404,7 +1404,7 @@
     "evolvesInto": [],
     "family": "0027",
     "rank": "Gold",
-    "description": "This creature is unuasually friendly to people. It likes to hug those it peceives as allies by wrapping around them with its ribbons.",
+    "description": "This creature is unusually friendly to people. It likes to hug those it peceives as allies by wrapping around them with its ribbons.",
     "imageLink": "./assets/CreatureImages/0029.png"
   },
   {
@@ -1415,7 +1415,7 @@
     "yNum": "Y340",
     "oNum": "",
     "pNum": "P230",
-    "name": null,
+    "name": "Radislime",
     "type": [
       "Water",
       "Radiation"
@@ -1423,7 +1423,7 @@
     "evolvesInto": ["0208"],
     "family": "0207",
     "rank": "Bronze",
-    "description": null,
+    "description": "Its body is constantly emitting energy. It hops around, weakining its prey with radiation.",
     "imageLink": "./assets/CreatureImages/0207.png"
   },
   {
@@ -1434,7 +1434,7 @@
     "yNum": "Y341",
     "oNum": "",
     "pNum": "P231",
-    "name": null,
+    "name": "Mortooze",
     "type": [
       "Water",
       "Radiation",
@@ -1443,7 +1443,7 @@
     "evolvesInto": ["0209"],
     "family": "0207",
     "rank": "Silver",
-    "description": null,
+    "description": "Mortooze's cannons are powered by its own body's radiactive output. While slow, it is capable of launching large projectiles over 20 metres.",
     "imageLink": "./assets/CreatureImages/0208.png"
   },
   {
@@ -1454,7 +1454,7 @@
     "yNum": "Y342",
     "oNum": "",
     "pNum": "P232",
-    "name": null,
+    "name": "Gattljam",
     "type": [
       "Water",
       "Radiation",
@@ -1463,7 +1463,7 @@
     "evolvesInto": [],
     "family": "0207",
     "rank": "Gold",
-    "description": null,
+    "description": "This beast has replaced its slimy body with mechanical armour. Its gattling gun can rev itself up in 5 seconds for upto a minute of continious fire.",
     "imageLink": "./assets/CreatureImages/0209.png"
   },
   {
@@ -1474,7 +1474,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P206",
-    "name": null,
+    "name": "Chelydrair",
     "type": [
       "Flying",
       "Wildcard",
@@ -1483,7 +1483,7 @@
     "evolvesInto": [],
     "family": "0433",
     "rank": "Gold",
-    "description": null,
+    "description": "This monster slowly floats in the air, snapping at any approaching object. It is strong enough to carry an Insian elephant for a some time.",
     "imageLink": "./assets/CreatureImages/0290.png"
   },
   {
@@ -1494,14 +1494,14 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P355",
-    "name": null,
+    "name": "Celefors",
     "type": [
       "Normal"
     ],
     "evolvesInto": [],
     "family": "0361",
     "rank": "Diamond",
-    "description": null,
+    "description": "This being used to be worshiped as the \"Spirit of Strength\" in the Ancient times. Its ability to seemingly magically manipulate force and surprising aggression makes further research hard to conduct.",
     "imageLink": "./assets/CreatureImages/0361.png"
   },
   {
@@ -1512,7 +1512,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P359",
-    "name": null,
+    "name": "Imcheined",
     "type": [
       "Dark",
       "Fighting",
@@ -1521,7 +1521,7 @@
     "evolvesInto": [],
     "family": "0362",
     "rank": "Diamond",
-    "description": null,
+    "description": "Imcheined has been biologically generated in accordance to ancient blueprints drafted by an ancient cult, dedicated to the titans. It is believed to house the soul of the deity who waged war against mortals eons ago.",
     "imageLink": "./assets/CreatureImages/0362.png"
   },
   {
@@ -1539,7 +1539,7 @@
     "evolvesInto": ["0367"],
     "family": "0366",
     "rank": "Bronze",
-    "description": null,
+    "description": "Opposoot slightly burns its own food stash, tracking it later with its powerful sense of smell. It cannot see, but somehow still can tell when it is being watched.",
     "imageLink": "./assets/CreatureImages/0366.png"
   },
   {
@@ -1558,7 +1558,7 @@
     "evolvesInto": ["0368"],
     "family": "0366",
     "rank": "Silver",
-    "description": null,
+    "description": "Possmoke can detect nearby brain activity using its heightened mind. It can communicate with its allies using smoke signals and can be taught new signals by people.",
     "imageLink": "./assets/CreatureImages/0367.png"
   },
   {
@@ -1578,7 +1578,7 @@
     "evolvesInto": [],
     "family": "0366",
     "rank": "Gold",
-    "description": null,
+    "description": "Ashsupial communicates with its ancestors to gain their wisdom. It appears to have trouble reaching its ancient predcessors, probably because its cousins might be attempting contact the same relative.",
     "imageLink": "./assets/CreatureImages/0368.png"
   },
   {
@@ -1589,14 +1589,14 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P204",
-    "name": null,
+    "name": "Scutlewing",
     "type": [
       "Flying"
     ],
     "evolvesInto": ["0434"],
     "family": "0433",
     "rank": "Bronze",
-    "description": null,
+    "description": "The little hatchling is born alone on a mountain. While not very smart, it instinctively knows how to fly.",
     "imageLink": "./assets/CreatureImages/0433.png"
   },
   {
@@ -1607,12 +1607,12 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P205",
-    "name": null,
+    "name": "Skietoise",
     "type": [],
     "evolvesInto": ["0290"],
     "family": "0433",
     "rank": "Silver",
-    "description": null,
+    "description": "Skietoises live in small colonies with up to five members. They hunt small birds displaying a surprising ability to cooperate as a pack.",
     "imageLink": "./assets/CreatureImages/0434.png"
   },
   {
@@ -1623,14 +1623,14 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P362",
-    "name": null,
+    "name": "Medunaxy",
     "type": [
       "Cosmic"
     ],
     "evolvesInto": [],
     "family": "0635",
     "rank": "Diamond",
-    "description": null,
+    "description": "The galaxy it surrounds is not known to contain any discovered celestial bodies. Its impossible to tell whether it is based on any area in outer space or its own personal navigation map.",
     "imageLink": "./assets/CreatureImages/0635.png"
   },
   {
@@ -1641,14 +1641,14 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P356",
-    "name": null,
+    "name": "Galephoon",
     "type": [
       "Flying"
     ],
     "evolvesInto": [],
     "family": "0640",
     "rank": "Diamond",
-    "description": null,
+    "description": "In the old legend, Galephoon is dubbed \"The Warrior of the Four Winds\". It is described to have saved a small village by redirecting all the fire arrows directly into the attacking nation's ships, eliminating their entire fleet.",
     "imageLink": "./assets/CreatureImages/0640.png"
   },
   {
@@ -1666,7 +1666,7 @@
     "evolvesInto": ["0642"],
     "family": "0641",
     "rank": "Bronze",
-    "description": null,
+    "description": "It tries to put anything it sees into its mouth. If that object starts moving it will spit it out and start screaming.",
     "imageLink": "./assets/CreatureImages/0641.png"
   },
   {
@@ -1685,7 +1685,7 @@
     "evolvesInto": ["0643"],
     "family": "0641",
     "rank": "Silver",
-    "description": null,
+    "description": "Its intestines are full of extremely noxious posion. It has been observing being fed a wide range of objects, but has never been recorded feeling ill from indigestion.",
     "imageLink": "./assets/CreatureImages/0642.png"
   },
   {
@@ -1705,7 +1705,7 @@
     "evolvesInto": [],
     "family": "0641",
     "rank": "Gold",
-    "description": null,
+    "description": "Gourmegob seems to have knowledge of everything that went into a dish it is eating. When detecting something suspicious in its allies' food, it will flail violently until the offending meal is disposed of.",
     "imageLink": "./assets/CreatureImages/0643.png"
   },
   {
@@ -1716,14 +1716,14 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P297",
-    "name": null,
+    "name": "Fanairby",
     "type": [
       "Electric"
     ],
     "evolvesInto": ["0659"],
     "family": "0658",
     "rank": "Bronze",
-    "description": null,
+    "description": "Despite being relatively heavy, this critter is capable of floating. If it is not careful, it can run out of battery and become dormant for a day.",
     "imageLink": "./assets/CreatureImages/0658.png"
   },
   {
@@ -1734,7 +1734,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P298",
-    "name": null,
+    "name": "Fanairbine",
     "type": [
       "Electric",
       "Fighting"
@@ -1742,7 +1742,7 @@
     "evolvesInto": ["0660"],
     "family": "0658",
     "rank": "Silver",
-    "description": null,
+    "description": "Fanairbine is capable of slowing its decent, allowing it to descent from mountains safely. It attacks predators and prey by launching gusts of wind using its arm fans.",
     "imageLink": "./assets/CreatureImages/0659.png"
   },
   {
@@ -1753,7 +1753,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P299",
-    "name": null,
+    "name": "Fanairbinator",
     "type": [
       "Electric",
       "Fighting",
@@ -1762,7 +1762,7 @@
     "evolvesInto": [],
     "family": "0658",
     "rank": "Gold",
-    "description": null,
+    "description": "Fanairbinator sticks to areas with extreme windspeeds. It can reserve energy enought to last three days, constantly moving, before needing to recharge again.",
     "imageLink": "./assets/CreatureImages/0660.png"
   },
   {
@@ -1780,7 +1780,7 @@
     "evolvesInto": ["0870"],
     "family": "0869",
     "rank": "Bronze",
-    "description": null,
+    "description": "Palmonut sticks to the beaches, scavenging for food. It will always try to throw a punch before scuttling away from a threat.",
     "imageLink": "./assets/CreatureImages/0869.png"
   },
   {
@@ -1799,7 +1799,7 @@
     "evolvesInto": ["0871"],
     "family": "0869",
     "rank": "Silver",
-    "description": null,
+    "description": "It gathers coconuts by punching the trees with its strong fists. The leftover fruit shells are often used to protect its hands from recoil.",
     "imageLink": "./assets/CreatureImages/0870.png"
   },
   {
@@ -1819,7 +1819,7 @@
     "evolvesInto": [],
     "family": "0869",
     "rank": "Gold",
-    "description": null,
+    "description": "A punch from this creature can break an Indian elephant's bone. It always tries to lead a pack, unless any other member can defeat it in battle.",
     "imageLink": "./assets/CreatureImages/0871.png"
   },
   {
@@ -1830,14 +1830,14 @@
     "yNum": "Y040",
     "oNum": "",
     "pNum": "P312",
-    "name": null,
+    "name": "Repsnowwy",
     "type": [
       "Ice"
     ],
     "evolvesInto": ["0896"],
     "family": "0895",
     "rank": "Bronze",
-    "description": null,
+    "description": "The optical cameras on its helmet can switch between heat based vision and light based vision. It is kept warm in the snow by the video processors implanted into it.",
     "imageLink": "./assets/CreatureImages/0895.png"
   },
   {
@@ -1848,7 +1848,7 @@
     "yNum": "Y041",
     "oNum": "",
     "pNum": "P313",
-    "name": null,
+    "name": "Coldsnaker",
     "type": [
       "Ice",
       "Ground"
@@ -1856,7 +1856,7 @@
     "evolvesInto": ["0897"],
     "family": "0895",
     "rank": "Silver",
-    "description": null,
+    "description": "The back fans can be used to raise its speed considerably, at the price of its stealthiness. The enhanced AI in its helmet can automatically detect suitable prey to hunt.",
     "imageLink": "./assets/CreatureImages/0896.png"
   },
   {
@@ -1867,7 +1867,7 @@
     "yNum": "Y042",
     "oNum": "",
     "pNum": "P314",
-    "name": null,
+    "name": "Cybroliz",
     "type": [
       "Ice",
       "Ground",
@@ -1876,7 +1876,7 @@
     "evolvesInto": [],
     "family": "0895",
     "rank": "Gold",
-    "description": null,
+    "description": "The mechanical limbs it had developed are used to fight larger enemies. It seems to use its own shedded skin to craft camouflage to put on its tech.",
     "imageLink": "./assets/CreatureImages/0897.png"
   },
   {
@@ -1887,12 +1887,12 @@
     "yNum": "Y095",
     "oNum": "",
     "pNum": "P283",
-    "name": null,
+    "name": "Hatchnix",
     "type": [],
     "evolvesInto": ["0929"],
     "family": "0928",
     "rank": "Bronze",
-    "description": null,
+    "description": "While common pets in the past, they have seemingly disappeared. It is said to be able to switch its flames into other elements.",
     "imageLink": "./assets/CreatureImages/0928.png"
   },
   {
@@ -1903,7 +1903,7 @@
     "yNum": "Y096",
     "oNum": "",
     "pNum": "P284",
-    "name": null,
+    "name": "Adolonix",
     "type": [
       "Fire",
       "Flying"
@@ -1911,7 +1911,7 @@
     "evolvesInto": ["0930"],
     "family": "0928",
     "rank": "Silver",
-    "description": null,
+    "description": "Mages used to use Adolonixes as their hunting partners. While normally covered in flames, it would change its plummage to match its partner's magic.",
     "imageLink": "./assets/CreatureImages/0929.png"
   },
   {
@@ -1922,7 +1922,7 @@
     "yNum": "Y097",
     "oNum": "",
     "pNum": "P285",
-    "name": null,
+    "name": "Peregryth",
     "type": [
       "Fire",
       "Flying",
@@ -1931,7 +1931,7 @@
     "evolvesInto": [],
     "family": "0928",
     "rank": "Gold",
-    "description": null,
+    "description": "Peregryth sightings are incredibly rare, but not unheard of. It is theorised they can travel to some other realm, untraceable using current science and magic. ",
     "imageLink": "./assets/CreatureImages/0930.png"
   },
   {
@@ -1942,7 +1942,7 @@
     "yNum": "Y362",
     "oNum": "",
     "pNum": "P360",
-    "name": null,
+    "name": "Imcelebreted",
     "type": [
       "Dark",
       "Fighting",
@@ -1951,7 +1951,7 @@
     "evolvesInto": [],
     "family": "1000",
     "rank": "Diamond",
-    "description": null,
+    "description": "Declassified research papers imply this creature might have been a faulty attempt to create an Imcheined. It is reported to be very cheerful, only displaying sorrow when seeing chains or swords.",
     "imageLink": "./assets/CreatureImages/1000.png"
   },
   {
@@ -1962,14 +1962,14 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P011",
-    "name": null,
+    "name": "Trapkold",
     "type": [
       "Ice"
     ],
     "evolvesInto": ["1390"],
     "family": "1389",
     "rank": "Bronze",
-    "description": null,
+    "description": "The origin of the fish encased in the ice is not known. This being does not move when it perceives being watched, sliding around only when it knows no one is looking.",
     "imageLink": "./assets/CreatureImages/1389.png"
   },
   {
@@ -1980,7 +1980,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P012",
-    "name": null,
+    "name": "Glacierpse",
     "type": [
       "Ice",
       "Water"
@@ -1988,7 +1988,7 @@
     "evolvesInto": ["1391"],
     "family": "1389",
     "rank": "Silver",
-    "description": null,
+    "description": "The ice keeps growing despite the tempersture not being suitable for freezing water. This monster seems to comprehend how cameras work, but can still be tricked by a sufficiently hidden one.",
     "imageLink": "./assets/CreatureImages/1390.png"
   },
   {
@@ -1999,7 +1999,7 @@
     "yNum": "",
     "oNum": "",
     "pNum": "P013",
-    "name": null,
+    "name": "Permaroten",
     "type": [
       "Ice",
       "Water",
@@ -2008,7 +2008,7 @@
     "evolvesInto": [],
     "family": "1389",
     "rank": "Gold",
-    "description": null,
+    "description": "The frozen biomatter has decayed enough to be noticeable. While the deformed fish looks dangerous, it appears to not be used for anything other than intimidation.",
     "imageLink": "./assets/CreatureImages/1391.png"
   }
 ]
