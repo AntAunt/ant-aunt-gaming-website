@@ -17,7 +17,7 @@ export class CharacterPageComponent{
   route: ActivatedRoute = inject(ActivatedRoute);
   characterService = inject(CharacterService);
   character: Character | undefined;
-  summaryHtml : any;
+  summaryHtml : any = "Research Pending";
 
   constructor(
     private http: HttpClient,
@@ -26,8 +26,11 @@ export class CharacterPageComponent{
     const name = String(this.route.snapshot.params['id'])
     this.character = this.characterService.getCharacterByName(name);
     if (this.character){
-      this.summaryHtml = this.http.get(this.character.summaryHtmlLink, { responseType: 'text' }).subscribe(
-        data => this.summaryHtml = data);
+      if (this.summaryHtml){
+        this.summaryHtml = this.http.get(this.character.summaryHtmlLink, { responseType: 'text' }).subscribe(
+          data => this.summaryHtml = data,
+          (error) => this.summaryHtml = "Research Pending");
+      }
     }
   }
 }

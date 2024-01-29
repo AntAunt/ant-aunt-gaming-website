@@ -1,7 +1,7 @@
 .character {
     display: flex;
     flex-direction: column;
-    width: 8.5rem;
+    width: 10.5rem;
 }
 
 .character:hover .character-image {
@@ -9,9 +9,9 @@
 }
 
 .character-image {
-    border-style: inset;
-    border: 0.5rem solid #CCC;
-    width: 8rem;
+    outline-style: inset;
+    outline: 0.5rem solid #CCC;
+    width: 10rem;
     height: auto;
     justify-content: center;
 }
@@ -20,7 +20,6 @@
     justify-content: center;
     text-align: center;
     font-size: 1rem;
-    padding-left: 0.5rem;
 }
 
 .character-page-link {
