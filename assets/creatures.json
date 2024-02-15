@@ -2010,5 +2010,109 @@
     "rank": "Gold",
     "description": "The frozen biomatter has decayed enough to be noticeable. While the deformed fish looks dangerous, it appears to not be used for anything other than intimidation.",
     "imageLink": "./assets/CreatureImages/1391.png"
+  },
+  {
+    "number": "0046",
+    "name": "Archepond",
+    "evolvesInto": ["0047"],
+    "family": "0046",
+    "description": "Archeponds spend their time patiently waiting for their prey to move above the water. They shoot a pojectile from their mouth with enough force that an Indian elephant could feel it.",
+    "imageLink": "./assets/CreatureImages/0046.png"
+  },
+  {
+    "number": "0047",
+    "name": "Spittva",
+    "evolvesInto": ["0048"],
+    "family": "0046",
+    "description": "This creature eats dirt and heats it up to a ridicilous degree. It has been recorded spitting lava 100 meteres away from the lake it resides in.",
+    "imageLink": "./assets/CreatureImages/0047.png"
+  },
+  {
+    "number": "0048",
+    "name": "Magmaphul",
+    "evolvesInto": [],
+    "family": "0046",
+    "description": "Magmaphul fills it's mouth with roughly half its weight of magma. It prefers to drop chunks of it as it lazily swims above its prey.",
+    "imageLink": "./assets/CreatureImages/0048.png"
+  },
+  {
+    "number": "0073",
+    "name": "Scorporby",
+    "evolvesInto": ["0074"],
+    "family": "0073",
+    "description": "Scorporbies are incredibly territorial and will attack interlopers on sight. Grabbing its tail will neutralise it fast, but it will remember.",
+    "imageLink": "./assets/CreatureImages/0073.png"
+  },
+  {
+    "number": "0074",
+    "name": "Cryosacc",
+    "evolvesInto": ["0075"],
+    "family": "0073",
+    "description": "Its shell is made of thick ice. It senses if something is nearby and will start swinging its stinger around violently.",
+    "imageLink": "./assets/CreatureImages/0074.png"
+  },
+  {
+    "number": "0075",
+    "name": "Empercold",
+    "evolvesInto": [],
+    "family": "0073",
+    "description": "This monster viciously rushes down prey and rivals alike. Its cold shell cannot melt while it is alive.",
+    "imageLink": "./assets/CreatureImages/0075.png"
+  },
+  {
+    "number": "0330",
+    "name": "Lunulithos",
+    "evolvesInto": [],
+    "family": "0330",
+    "description": "Lunulithos finds allies by releasing an aura that grants them strength. They used to be thought to be rare, until a massive colony was discovered in space.",
+    "imageLink": "./assets/CreatureImages/0330.png"
+  },
+  {
+    "number": "0906",
+    "name": "Tadspeckle",
+    "evolvesInto": ["0907"],
+    "family": "0906",
+    "description": "Tadspeckles live around cities eating discarded food. They use their psychic powers to quickly scale buildings to avoid predators and pest control.",
+    "imageLink": "./assets/CreatureImages/0906.png"
+  },
+  {
+    "number": "0907",
+    "name": "Croacopath",
+    "evolvesInto": ["0908"],
+    "family": "0906",
+    "description": "Croacopath uses its heghtened intellect to generate psychic barriers. Staring at its spotty pattern often leads to eye strain.",
+    "imageLink": "./assets/CreatureImages/0907.png"
+  },
+  {
+    "number": "0908",
+    "name": "Ampsibian",
+    "evolvesInto": [],
+    "family": "0906",
+    "description": "This monster can be seen floating motionlessly at night. It dispatches of any threat by poisoning its enemy's mind.",
+    "imageLink": "./assets/CreatureImages/0908.png"
+  },
+  {
+    "number": "1496",
+    "name": "Blowcoral",
+    "evolvesInto": ["1497"],
+    "family": "1496",
+    "description": "It can make bubbles to traverse the world beyond the sea. This curious creature enjoys surveying rocks.",
+    "imageLink": "./assets/CreatureImages/1496.png"
+  },
+  {
+    "number": "1497",
+    "name": "Colonubble",
+    "evolvesInto": ["1498"],
+    "family": "1496",
+    "description": "Colonubble often travels back into its home seas to replenish the water for its bubble. The other two Blowcorals cannot make bubbles themselves, which is why Colonubble took them under its custody.",
+    "imageLink": "./assets/CreatureImages/1497.png"
+  },
+  {
+    "number": "1498",
+    "name": "Reefarmor",
+    "evolvesInto": [],
+    "family": "1496",
+    "description": "Despite its size, Reefarmor can fly across a surface at staggering speeds. The smaller Blowcorals on its back help manipulate water, allowing for more control.",
+    "imageLink": "./assets/CreatureImages/1498.png"
   }
 ]
