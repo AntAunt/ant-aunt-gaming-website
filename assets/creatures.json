@@ -2114,5 +2114,45 @@
     "family": "1496",
     "description": "Despite its size, Reefarmor can fly across a surface at staggering speeds. The smaller Blowcorals on its back help manipulate water, allowing for more control.",
     "imageLink": "./assets/CreatureImages/1498.png"
+  },
+  {
+    "number": "0329",
+    "name": "Lunateorite",
+    "evolvesInto": [],
+    "family": "0329",
+    "description": "These monsters tend to orbit cosmic bodies, absorbing sunrays of a nearby star. Some orbit this planet as well, being visible in the night sky in complete darkness.",
+    "imageLink": "./assets/CreatureImages/0329.png"
+  },
+  {
+    "number": "0500",
+    "name": "Corrodrip",
+    "evolvesInto": [],
+    "family": "0500",
+    "description": "It waits patiently on cave ceilings for its prey wander below. Once you can feel ooze dropping down, it's too late, you cannot escape Corrodrip's attack.",
+    "imageLink": "./assets/CreatureImages/0500.png"
+  },
+  {
+    "number": "1296",
+    "name": "Burialmite",
+    "evolvesInto": [],
+    "family": "1296",
+    "description": "These docile critters tend to slowly pace around cemetires. After finding a mask to protect its body, it is fused into their skin.",
+    "imageLink": "./assets/CreatureImages/1296.png"
+  },
+  {
+    "number": "1344",
+    "name": "Feelyspike",
+    "evolvesInto": ["1345"],
+    "family": "1344",
+    "description": "The stingers of this simple-minded organism are very powerful touch sensing organs. It digs elaborate tunnels underground to sneak past its predators.",
+    "imageLink": "./assets/CreatureImages/1344.png"
+  },
+  {
+    "number": "1345",
+    "name": "Feelysight",
+    "evolvesInto": [],
+    "family": "1344",
+    "description": "To survive in harsh snowy landscapes, this creature gained a pair of eyes. Despite its vision being subpar, it has proven useful enough to prevent collisions with aggressive monsters.",
+    "imageLink": "./assets/CreatureImages/1345.png"
   }
 ]
