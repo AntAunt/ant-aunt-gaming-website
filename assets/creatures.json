@@ -2154,5 +2154,69 @@
     "family": "1344",
     "description": "To survive in harsh snowy landscapes, this creature gained a pair of eyes. Despite its vision being subpar, it has proven useful enough to prevent collisions with aggressive monsters.",
     "imageLink": "./assets/CreatureImages/1345.png"
+  },
+  {
+    "number": "0143",
+    "name": "",
+    "evolvesInto": ["0144"],
+    "family": "0143",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0143.png"
+  },
+  {
+    "number": "0144",
+    "name": "",
+    "evolvesInto": ["0145"],
+    "family": "0143",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0144.png"
+  },
+  {
+    "number": "0145",
+    "name": "",
+    "evolvesInto": [],
+    "family": "0143",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0145.png"
+  },
+  {
+    "number": "0697",
+    "name": "",
+    "evolvesInto": ["0698"],
+    "family": "0697",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0697.png"
+  },
+  {
+    "number": "0698",
+    "name": "",
+    "evolvesInto": ["0699"],
+    "family": "0697",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0698.png"
+  },
+  {
+    "number": "0699",
+    "name": "",
+    "evolvesInto": [],
+    "family": "0697",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0699.png"
+  },
+  {
+    "number": "1505",
+    "name": "",
+    "evolvesInto": ["1506"],
+    "family": "1505",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/1505.png"
+  },
+  {
+    "number": "1506",
+    "name": "",
+    "evolvesInto": [],
+    "family": "1505",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/1506.png"
   }
 ]
