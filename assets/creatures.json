@@ -2218,5 +2218,37 @@
     "family": "1505",
     "description": "",
     "imageLink": "./assets/CreatureImages/1506.png"
+  },
+  {
+    "number": "0591",
+    "name": "",
+    "evolvesInto": ["0592"],
+    "family": "0591",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0591.png"
+  },
+  {
+    "number": "0592",
+    "name": "",
+    "evolvesInto": ["0593"],
+    "family": "0591",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0592.png"
+  },
+  {
+    "number": "0593",
+    "name": "",
+    "evolvesInto": [],
+    "family": "0591",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0593.png"
+  },
+  {
+    "number": "0634",
+    "name": "",
+    "evolvesInto": [],
+    "family": "0634",
+    "description": "",
+    "imageLink": "./assets/CreatureImages/0634.png"
   }
 ]
